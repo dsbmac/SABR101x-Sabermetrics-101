@@ -1,0 +1,153 @@
+ 
+ANDY ANDRES: Reviewing what we covered in the first paper by Lindsey,
+he basically concludes that batting average
+is a poor measure of the true talent of a hitter.
+But he does find some interesting situational differences.
+A secondary question of his paper was demonstrating these left handed,
+right handed batting splits against other pitchers.
+And here's the data he shows.
+Previously we described the batting average of same handed hitting.
+That's right here.
+Same handed hitting is at 231.
+In other words, right handed batters face right handed pitchers.
+And left handed batters face left handed pitchers.
+So he calls this situation the same handedness.
+And he's got over 6,000 at bats to look at in his data set.
+And when you have the same handedness situation, batting average is 231.
+When it's the opposite, in other words, left handed batters face
+right handed pitchers and right handed batter face left handed pitchers,
+the batting average turns out to be 263.
+And he did the statistics looking at the differences in these two samples.
+And showed that the difference is real.
+And the p value was less than 0.001.
+Which means it's highly significant.
+Those are the data he collects in situations.
+And as far as I can tell, this is the first published demonstration
+of these splits.
+Left handed, right handed splits.
+I think it was commonly known.
+I think it was described by other folks.
+But this is the first published statistical test of it.
+ 
+One interesting thing is that when you analyze the at bats,
+59 percent of the plate appearances, the at bats, were by right handed batters.
+41 percent of the at bats were left handed batters.
+But on the pitching side, 73 percent of the at bats
+were thrown by right handed pitchers.
+27 by left handed pitchers.
+So it's almost three quarters right handed pitchers.
+One quarter left handed pitchers.
+And it's 60-40 right handed batters, left handed batters.
+Now, looking at the batting average of the different batters,
+left handed batters versus right handed batters, Lindsey reports a difference.
+Left handed batters have a higher batting average, 256.
+Versus the right handed batters, 241.
+This is just looking at the batters here.
+Taking all left handed batters and combining them
+into getting a batting average.
+And all the right handed batters here and here,
+to get the right handed batting average.
+Interestingly, there's an error in the paper.
+I redid the calculations and it was 256 for lefties batting.
+And 241 for right handers batting.
+What Lindsey reports in his paper is that lefties batted 258.
+And righties batted 240.
+That was an error in the paper that the reviewers didn't catch.
+But I recalculated based on these numbers.
+I'll leave it for the student as an exercise
+to recalculate the left handed batters' batting average from these two rows.
+Where batter has L on it.
+And then the right handed batter batting average as well.
+Now why could this be?
+What Lindsey speculates is that there's a high percentage of right
+handed pitchers here.
+There's a high percentage of right handed pitchers.
+73 percent of pitches are thrown by right handed pitchers.
+73 percent of at bats are thrown by right handed pitchers.
+And because of this difference, because of the known opposite handedness splits
+difference, lefties actually bat better than righties
+because lefties actually will perform better against right handed pitchers.
+And there's three to one more right handed pitchers.
+Now Lindsey doesn't test this.
+But he speculates that this result of lefties batting better than righties
+is because of the high number right handed pitchers.
+ 
+Another question addressed by this paper,
+was looking at run expectancy in one very specific situation,
+George collects data.
+Lindsey collects data looking at the bases loaded situations.
+And here's what he collects.
+Here are-- remember what this is.
+This is bases full.
+So bases are full here.
+This is the only situation he looks at in the 1959 paper.
+Now how many runs are scored after the bases are full?
+And he does it in the three situations.
+No outs, one out, and two outs.
+So when the bases are full and there's nobody out,
+there are 13 chances in his data set where there's no runs scored.
+Zero runs are scored.
+23 chances where there is one run scored.
+And the expected, out of all of these here,
+the expected runs scored in that situation is 2.3 runs.
+On average, when you average this all out, it's 2.3 runs.
+When you're in the situation of bases full and nobody out,
+the average numbers of runs scored is 2.3.
+With one out, the average expected runs is 1.6 runs.
+And when you have bases loaded and two outs, the average expected runs is 0.9.
+What he does is graph the times a team scores
+10 runs after the bases are full.
+That happened twice.
+Once after no outs.
+And once after one out.
+ 
+These are the data he puts together.
+Now he also represents the same data graphically.
+Here is the distribution of runs scored after the bases are full.
+After bases are full, this is the situation
+Lindsey's looking at in the '59 paper.
+This is the no out situation.
+One out, and the two out situation graphed here.
+These lines are the expected.
+This is 2.3 runs, which is the expected number of runs
+when bases are loaded with nobody out.
+This is 1.6 runs.
+And this is 0.9 runs.
+What you have here are the percentages of no runs scored.
+One runs scored, that's right here.
+Two runs scored, three, four, five, six, and then the rest.
+You can see that zero, one, and two, three, four,
+five are higher in the no out situation.
+You've got more area and more right shift here
+of run scoring when you start with the bases loaded and nobody out.
+This makes sense.
+Lindsey actually starts looking at run expectancy.
+How many runs you're expected to score after you have the bases full.
+And this is really a first look at run expectancy published in any papers
+that I could find.
+Lindsey got these data from 1952, 1956, '57 and '58.
+And these are observations whenever the bases were full,
+they would count how many runs were scored based on that situation.
+I think this is the first published look at run expectancy.
+And it's the first data analysis of situational probabilities.
+He looks at this question, should you play
+for one out versus trying for the double play?
+By playing for one out, he's talking about getting the runner at home
+in a force out.
+And that means playing the infield in.
+All the infielders would play in.
+And if they got a grounder they would throw home.
+Versus backing up the second baseman and the shortstop
+and looking for a double play, to get two outs.
+He's looking at each of these cases to determine
+which is the better situational choice for the manager.
+Now his data was incomplete.
+He only had the bases loaded.
+So he had to speculate about the other base out situations.
+And what might be happening there if there ended up
+being men on second and third, and how that
+would look for run scoring in the future.
+But this idea of looking at situations led to his very important 1963 paper.
+We'll talk about that in an additional video.
+But this first look at situations, and trying to analyze them,
+is a hint at what's to come in the 1963 paper.

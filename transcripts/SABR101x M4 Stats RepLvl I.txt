@@ -1,0 +1,163 @@
+ 
+ANDY ANDRES: This is the statistics track of module four
+and in it we're going to talk broadly about data distributions.
+We've already covered some of the basics of data distributions
+in a previous statistics track module, but we're
+going to talk specifically about an important distribution
+question which is replacement level.
+Replacement level in baseball and in sabermetrics
+is an important concept all sabermetricians should grasp very well.
+And I wanted to just cover this by starting
+with something called the normal distribution.
+This is just the bell shaped curve, and most people
+who study various analytics get a sense of what this really looks like.
+It looks like a bell.
+And so you know a typical bell shaped curve, when you measure something
+you get a probability distribution of this.
+So let's say we were measuring heights of people who lived in Boston.
+We'd gather all these people, and we'd eventually plot a histogram.
+This histogram could be a count of the people at different heights.
+So you'd measure the height, and then you'd
+count how many people fit that height.
+If you did that enough, you'd reach a bell
+shaped curve-- what's called the normal probability distribution.
+So then you know people who are say this height,
+they're at one end of the probability distribution.
+In other words, they're tall.
+OK.
+They're tall people.
+And these are shorter people.
+And it's just based on where your height is, the probability of you
+falling in this bell shaped curve, the normal distribution.
+Now it's an important concept in all of analytics, about sample size
+and what a normal distribution-- when you get the normal distribution.
+But it's an important concept in baseball
+because remember what the normal distribution offers you.
+That right here in the middle you have the average.
+The mean, is the same as the median.
+As is the mode.
+The mean, median, and mode are all the same
+at the middle of the normal distribution.
+Sometimes distributions aren't normal though
+and we care about what they look like and why they look that way.
+And this matters in baseball very specifically.
+Now the next sort of idea here is the talent normal distribution.
+In other words, not just height but what if we
+graph the normal distribution of baseball talent.
+We'll call it just general baseball talent.
+But if we sampled enough people and measured general baseball talent,
+if we could do such a thing, we would eventually
+get the bell curve or the normal distribution.
+There would be an average level of baseball talent.
+So this would be the mean, median, and mode of baseball talent.
+But this includes lots of folks, and this is an important idea
+that Keith Woolner explores that we want to get to.
+So that would be a talent normal distribution as opposed to a height
+normal distribution.
+Now one thing I do want to talk about here, which is very important, when
+you think about baseball you think about a lot of things,
+but specifically baseball, there's a discontinuity
+between a player's talent.
+And the talent encompasses what a scout might call the five tools.
+What are the skills and talents of a player?
+They're hitting for power.
+They're squaring up the ball for good contact.
+Their ability to field the ball.
+Their ability to throw the baseball around the diamond, or even
+pitch the baseball if they're a pitcher.
+Their ability to run the bases.
+Their running speed, and their instincts as a fielder running to make
+plays in the field.
+All that stuff I just reeled off there encompasses baseball talent.
+Now what we're good at is measuring outcomes.
+We're not so good at measuring talent specifically.
+When we take metrics in baseball we measure something.
+When Chadwick started measuring something he was measuring outcomes.
+Remember what one of the things Chadwick measured was runs per game by a player.
+How many runs a player scored.
+Those runs per game is an outcome.
+Now it certainly related to a player's talent,
+but there is a separation between the actual outcome being measured
+and the innate talent or skill of the player.
+So distinguishing talent and outcomes and being clear when you need to
+is an important concept in sabermetrics.
+Just to note here.
+A side note about what talent is defined as-- the skills of a player, what they
+own as their innate skills because of training and genetics.
+And the outcomes-- what we can measure, what
+happened during a game or a set of games.
+So that's just a side tangent on those concepts.
+But let's move on to discussions now about replacement level.
+And we saw previously why replacement level is important.
+One of the key statistics thrown around today is WAR.
+Now WAR stands for wins above replacement.
+So this key word here in WAR is what we're
+going to try to just discuss further in this segment.
+ 
+So Bill James was really the first we can
+find to write about replacement verses average-- replacement
+level versus average.
+Remember, it's about distributions and about bell curves and normal.
+What's normal and what's average.
+But what he does in his Abstracts in the '80s
+is he argues against this concept of average ballplayer in 1984.
+But he really expands upon this in the 1985 Abstract.
+Here's a quote from the '85 Abstract: "The line
+against which a player's value should be measured is the replacement level."
+This is in direct contrast to what Pete Palmer and John
+Thorn were talking about in The Hidden Game of Baseball.
+In The Hidden Game of Baseball, Pete Palmer
+develops this wonderful system of measuring player values
+but he does it against average.
+He says that the average ballplayer is worth zero.
+And that's the starting point that you go from to start accumulating value.
+And that's an important idea that really is
+distinguished from this idea of replacement level.
+Again, Pete Palmer argued for average being zero.
+When he did his work he actually talked about runs above average.
+Runs above average.
+So he would have a normal distribution.
+It would be the average here.
+The mean.
+And runs, values that he would put on runs this way,
+would be runs above average.
+And you could do this for different things.
+Fielding, base running, pitching, batting skills.
+It would be runs above average, and runs below average would be negative.
+On this side.
+Now that's Palmer's idea.
+And James argues against it in his Abstracts
+by talking about replacement level.
+So Bill James really brings up replacement level
+into the sabermetric thinking.
+As far as we can tell, we haven't seen it really discussed much
+or written about more in previous work.
+So this is what-- one quote: "The line against which player's value should
+be measured is the replacement level."
+Another quote-- I've sort of modified here a little.
+The other quote is, "The replacement level is real for a baseball player.
+Drop under it and they release you."
+This is another key concept about what the definition of replacement level is.
+If you go under replacement level, you won't be playing much longer.
+And that's a real thing for baseball players.
+And this is another important quote from that Abstract:
+"Baseball talent is not normally distributed, but skewed."
+This is one of Bill James' key arguments.
+Instead of the normal distribution, the bell curve-- remember the bell curve.
+You measure a lot you get this nice probability distribution.
+The mean, the median, the mode all line up.
+But data can be skewed, and we showed you examples of this previously.
+If we do a histogram, it might look like that.
+Or it might look like this.
+And what James is arguing is that baseball talent, the talent,
+is not normally distributed.
+It doesn't look like this.
+This is not what baseball talent looks like.
+This is what baseball talent looks like.
+And he's specifically talking about professional baseball players
+because that's what James was studying.
+ 
+And he studied them up and down the levels.
+He did a lot of work on minor leagues and major leagues.
+But he's really arguing against this concept of average
+as the baseline for measuring player value.

@@ -1,0 +1,166 @@
+ANDY ANDRES: So here's the Rickey Roth formula.
+This one here represents O. This is O, for Offense.
+And we'll walk through what each of these three components are.
+And this one here is D, this part.
+So O minus-- here's the minus sign-- O minus D, this whole term here,
+equals G. And G, again, is modeling the games behind for each of these league
+seasons.
+So let's go through each of these things.
+Now, this might be familiar to folks.
+Hits plus walks plus hits by pitches divided by at bats plus walks plus hit
+by pitch.
+This is on base percentage, OBP.
+Now, this is a little different.
+We may or may not have covered this very well.
+We did in the early sections looking at runs define this one.
+But total bases divided by at bats you should recognize as slugging.
+But when we take out the hits, we get a different number.
+And this is called isolated power.
+It's a measure of power.
+This is what Roth and Rickey called a measurement of clutch.
+Not the clutch that gets debated in sabermetrics circles sometimes.
+What Roth and Rickey meant by "clutch" was the events that occur on base paths
+like speed, good speed.
+Good running speed counts as clutch.
+Taking the extra base-- that's also clutch.
+Stealing.
+Stolen bases were clutch, according to Rickey.
+He also mentions manager savvy.
+And this just must mean good managing by managers.
+And then, of course, the old timely hitting.
+In other words, hitting just when you needed it.
+So all these ideas of clutch are represented here.
+It's basically your run scoring divided by your run scoring opportunities,
+how many times you get on base.
+So you get on base through your hits, your walks, and getting hit by pitch.
+We ignore a few others here.
+So does Rickey.
+But the runs you score divided by the times you get on base
+is what Rickey calls clutch.
+So the sum of OBP, isolated power, and this clutch term
+add up to give you O, the offensive number.
+ 
+On the defensive side, we have four terms instead of three.
+The first one here is just the opponent's batting average.
+ 
+Remember what batting average is.
+Hits divided by at bats.
+So this is the opponent's batting average.
+This is a strange term here.
+This is the percentage of hits and walks that the opposing team gets.
+ 
+And so you count at bats, walks, and hits by pitches.
+And you just count the walks and hits by pitches.
+This is a strange mix of things here.
+You could have just done opponent's on base percentage.
+And you would have the melding of these two, but for some reason
+they wanted to keep batting average separate.
+So they have a batting average term and a walk
+and hit by pitch getting on base term, this one here.
+This third one here is called pitching clutch.
+And similar to the hitting clutch up here,
+this one here, this is earned runs, the earned
+runs allowed by the defense, divided by hits plus walks plus hits by pitches.
+Sort of the alternative to runs scored by the offense,
+earned runs by the defense.
+And this gets at the same thing.
+How does the defense do at managing speed and keeping the other team
+from taking bases or keeping the other team from stolen bases?
+So that's what Roth and Rickey talk about when
+they talk about pitching clutch.
+And then there's strike outs.
+Now, you've got to remember what's going on here.
+This is a negative term and then another negative term.
+So strike outs were supposed to be good.
+That was the idea, that strike outs would be good here.
+And there's a missing parentheses here.
+Strike outs would be good so you would subtract them in this term.
+And this is strike out percentage, strike outs
+divided by plate appearances, essentially.
+Finally, this term here, F, has to do with fielding.
+And for completeness sake, Roth and Rickey put fielding in here.
+Good fielding would be the bonus here because it's another minus sign.
+But they don't even address this in their formula or in the article here.
+So when people look at this formula, now, they
+just put a 0 here because they don't know what to do with it.
+But, theoretically, good fielding would go here for a team
+if you could measure it well.
+And Rickey makes comments like there's nothing they can do with fielding.
+They can't measure it well.
+So the article doesn't go into what F is at all so people just make it 0.
+Now, two terms have a ratio associated with them.
+Strike outs-- the theory was that they would be helpful to your defense
+if you had strike outs.
+And this is sort of a truism today.
+Strike outs are good for defense.
+But they didn't turn out to be as important in their regression
+analysis, their correlation analysis, as pitching clutch, as these two terms
+here on opposition on base percentage.
+So what they did was, based on the relationships
+they found in the correlation analysis, they
+decided to divide the strike out percentage by eight
+to make it fit better in their model.
+So this is sort of remodeling strike outs.
+Even though it did help defense, not as much as they thought
+the other terms did based on their regression analysis.
+Same thing is true here.
+When they did the analysis, they found that OBP
+was highly correlated with offense.
+Clutch was highly correlated with offense.
+And power less so.
+Power wasn't as correlated with offense.
+So they take 75% to power, 75% of power in their formula.
+Here, they're only taking 12%, 12.5% of strike
+out percentages into the defensive formula.
+Now, there's a lot of comments here.
+But basically you got to remember this term here, this top one,
+is O, O for Offense.
+And we subtract off Defense, this term here,
+to model this efficiency of a team.
+ 
+So we go back.
+I'm going to go back one slide to the standing slide
+that Roth and Rickey start with.
+O, Offense.
+This is straight up runs per game.
+This is not the formula that is on the next slide.
+D for Defense.
+This is runs allowed per game, remember.
+This is just straight O minus D. But the whole point
+is to model the efficiency here, how well teams do relative to one another.
+So this is a formula.
+It has its basis on things we're familiar with.
+On base percentage, isolated power, opposition on base percentage,
+some measure of the ability to strand runners,
+or some measure of the ability of getting runners in when
+they're on base, strike out rate, defense. .
+All this is put in, and people have studied these formulas
+to see how well they do today, how well they do with data following 1954
+and how well they do with data even going
+further back than Roth and Rickey looked at.
+And it holds up pretty well.
+This formula isn't bad.
+And remember this is an old formula. 0:09:56.495,1193:02:47.295  
+This is 60 years ago.
+So sabermetrics had a 60-year-old analytics point here.
+Now, Allen Schwartz in The Numbers Game, his book,
+makes the claim that nobody paid attention to this
+even though it was published in Life magazine, one
+of the most popular magazines of the day.
+It was widely disseminated.
+And Branch Rickey was one of the more well known baseball
+front office personnel.
+Even though all that's true, this really never took.
+There was no traction to this.
+Teams really didn't embrace this at all going forward.
+So this early baseball science, this early sabermetrics,
+like a lot of other early efforts, kind of just faded away
+and wasn't embraced by the clubs themselves, by the managers
+and the players themselves.
+Unlike today, when we obviously see much more
+sabermetrics inside the game itself.
+And, finally, I want to leave you with some more quotes from the article.
+You can read these on your own.
+It's really interesting to think that these were from 60 years ago.
+And one of my favorites is, fielding averages?
+Utterly worthless as a yardstick.

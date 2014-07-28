@@ -1,0 +1,190 @@
+ 
+ANDY ANDRES: One of the most important figures in Lindsey's third baseball
+paper is this one here, Table 1, which is the "Distributions of Scores
+in Remainder of the Half-Inning" that he studied.
+Now, he combines data from his original first paper in baseball, the 1959
+paper, where he looked at bases-loaded data from 1952, '56, '57, and '58.
+Those data from the first paper are included in this table
+and they're right here.
+This is the data from the 1959 paper.
+Now, in addition to the 1959 data looking at bases-loaded full,
+he collects data from all other base-out situations
+from 3,033 half-innings from 1959, 176 different games,
+and from 3,366 half-innings from 1960, 197 games.
+And that's included here.
+This represents the data from 1959-60.
+Those are the years that they're from.
+This column here are the base states.
+"O" means no men on base.
+"I" here means man on first, man on second, man on third, first and second,
+first and third, second and third, and this is full,
+just like he did in the earlier paper, where the bases were full.
+So that's represented by the "F" here.
+Now, what's also represented here, besides the base state,
+is the out state.
+He also represents the out state-- 0-outs, 1-out, or 2-outs.
+So all the different 24 states of the game are represented in this table.
+And what he is plotting here are a couple things.
+He's plotting on this table here, he's plotting the number of times
+that situation occurred.
+The number of times in his data looking at these two sets of games-- 1959
+and 1960-- he looked at these sets of games.
+And every time a situation occurred with nobody on base and nobody out,
+he started recording it.
+That happen 6,561 times.
+And you can see, all these other states occurred during those games
+he was looking at.
+So for example, there were only 92 instances
+of bases loaded full, nobody out.
+In all the games he looked at, it happened 92 times.
+All the different base state situations that he analyzed are here.
+So only 92 out of about 27,000 times did he reach this state of outs-- 0--
+and bases loaded-- full bases.
+And so that's what this column represents
+is the frequency that these situations occur.
+And that's an important column, because that gives part of his value,
+when he looks at the batting data, he looks at the situation that is in
+and the probability that that situation occurs.
+Then he looks at the probability, given that situation,
+the probability of scoring zero runs in that situation
+for the rest of the inning.
+The probability of this column of scoring one run or two runs,
+or more than two runs.
+This is what he represents in each of these four sets of probabilities.
+Each of these probabilities adds up to 1.
+And you can convince yourself of that by just adding up these four numbers.
+Once you do that, you'll see that it adds up to 1.
+So the probabilities here across this row add up to 1.
+So the complete set is probability of runs greater than 2, probability of two
+runs probability of one run, and probability of zero runs.
+Now, the other thing to note, as the outs go from 0 to 1, to 2, just
+look at these numbers here, as the outs go from 0 to 1, to 2, it increases.
+You're getting an increasing probability of no runs scored.
+You're less likely to score runs, as your offense makes more outs.
+And this makes complete sense that you change the probability of scoring runs,
+zero runs upward, as you make more outs.
+But again, all of these four sets of data add up to 1.
+One thing to note here is this column also.
+This column here is the expected runs, given the bases
+and given the number of outs, the expected runs you're going to score.
+This is the average runs scored in that situation.
+So the average expected runs with nobody on base and 2 outs is 0.102.
+You're not expected to score many runs in that situation.
+But if you're in a situation, bases loaded, no outs,
+your average expected runs goes to 2.22 runs, OK?
+Bases loaded, 2 outs, you're expected to score 0.823 runs.
+So if you look at the expected runs here that Lindsey demonstrates
+based on his half-inning observations, over 6,000 half-inning observations
+from these data and then other sets of observations from these data,
+you'll see that it sort of makes sense.
+At the start of an inning with nobody on, nobody out,
+you're expected to score 0.461 runs.
+And here's the standard error of all the different situations.
+ 
+Now, one other thing to note in this table
+is that you might want to start looking at these two sets of data
+and comparing them to see what they look like.
+Are they similar?
+Is this value here close to this value here?
+And if you look and compare these, they're about the same.
+Now, these are different data, they don't have to be precisely the same,
+but you can see that they are approximately the same, that there
+is not much difference in the probability of scoring zero, one, two,
+or greater than two runs across these probabilities,
+and also in the expected runs you get, when the bases are full, nobody out,
+the bases are full, one out, and the bases are full two outs.
+And they're about the same in both sets of data--
+the '59-'60 data and the '52, '56 '58 data from the 1959 paper,
+which is what this section represents.
+So this is a very important table that Lindsey puts together.
+And what he's doing here is he's talking about the way
+to get value and also the way to analyze strategy in the game.
+The advisability of a baseball strategy can
+be looking at the changing games state.
+So if you're, in this situation here, if you're in this situation here,
+and you've got nobody on base, and nobody out, but then
+that batter hits a triple, you transition to this situation
+here-- there's a man on third, and nobody out.
+And you transition from expecting to score 0.461 runs at the start
+before the triple, then, after the triple,
+you're expected to score 1.39 runs after that.
+So there's an added expectation of runs.
+And you could describe that to the batter who just hit that triple.
+The other factor is you can say, when I look
+at all triples hit across all these situations,
+I can take the probability of being in that situation, which is represented
+by these two numbers here-- the top numbers here,
+all represented here, above this line here--
+those top numbers would be in the numerator.
+And this number here 27,027 would go in the denominator
+to represent the likelihood of any of these situations.
+You can take the probability of being in any of these base-out situations.
+Consider what happens, if you hit a home run, a triple, a double, a single.
+And then you can see the change in this base state.
+You can say the triple goes from this state
+that you're in here to this new state.
+And we've changed the expected runs from here to here.
+Now, what if you make an out?
+You can go the other way and look at how outs change expected runs.
+Now, Lindsey doesn't look at the out cases
+as much as he looks at the hit cases of singles, doubles, triples, and home
+runs, but he uses this data table that he
+creates of the distribution of scores in the half-inning
+to better understand value and to also better understand baseball strategy.
+Would you want to intentionally walk someone?
+How does it change the base state?
+So for example, you might be in this situation here-- man
+on second and third, one out.
+And the expectation is 1.56 runs.
+And if you are the defense, you're thinking, maybe,
+I want to walk a batter to load the bases.
+Intentional walk here will go from second and third,
+one out, to bases loaded, one out.
+Well, you've changed your expectations to actually scoring
+more runs in that case.
+And that may not be the best strategy.
+The same thing with men on second and third, zero outs.
+You actually increase the expectation of runs by doing that.
+So this is the kind of analysis on situation that Lindsay does.
+And he also ascribes this to the complete batting profile.
+What is the value of a single across all these states?
+What's the value of the double, the triple, and the home run?
+This is the start of linear weights thinking,
+a measure of batting effectiveness is developed here by Lindsey.
+Before it was slugging, batting average, RBI,
+where the measures of batting effectiveness,
+but now he starts developing a new measure of batting effectiveness.
+So this new approach to batting effectiveness has three assumptions,
+there's three assumptions here.
+And let me just iterate them.
+The three assumptions here are, first, the purpose of the batter
+is to cause runs to score.
+So you want to measure how runs are potentially scored, how on average you
+approve your run expectation with batting performance.
+The second assumption that Lindsey talks about
+is that the measure of batting effectiveness of a player
+should not depend on the situation, it should be situation independent.
+You should measure the batting effectiveness across all situations
+and just understand the probability of being in that situation
+from this column here.
+This column here, again, gives you the probability of being in that situation.
+ 
+And you don't want to really use RBI at all
+for the measure of effectiveness of these things.
+And third, the probability of making different kinds of hits
+should be independent of the situation of the bases.
+In other words, not clutch.
+But Lindsey says most think that this idea of clutch exists.
+But his quote from the paper is that evidence on this point
+is difficult to secure.
+In other words, evidence for clutch behavior by batters is hard to find,
+according to Lindsey.
+So this is the basis of run expectancy, it's
+the basis that starts linear weights thinking
+that leads to Palmer's work, that leads to ideas like Tango's wOBA today
+that leads to a value added approach to measuring batting that sabermetricians
+have been developing since, really, Lindsey,
+but it started reoccurring in the '80s by Palmer and Skoog,
+and many other sabermetricians.
+Very important table, this idea of linear weights thinking
+was started over 50 years ago.

@@ -1,0 +1,109 @@
+ANDY ANDRES: So considering these two columns,
+I wanted to go through how we calculated these different numbers here,
+these percentages.
+What we did was, for each estimator, the Cook estimator, for example,
+the Cook estimator, we just got the absolute difference of the estimator
+to the actual winning percentage for every team season in the dataset.
+So in this column here, we're talking over 2,300 observations, where
+each of the estimators was compared to the actual winning percentage.
+And we took the difference-- made it an absolute difference,
+so we got rid of the negative values-- and we just took an average.
+So this is the average, absolute difference
+for each estimator in the actual percentage.
+So this looks at how close each estimator got,
+and the winner was the Kross estimator.
+The Kross estimator did a nice job estimating the actual winning
+percentage of all those teams' seasons.
+So for the larger dataset in the modern era--
+and if you ever did analyses that encompassed the whole dataset,
+and you needed to think about winning-percentage estimators,
+you might want to go with the best one in this list, which
+is the Kross estimator.
+The Kross estimator is the lowest of this column.
+Again, it's pretty close.
+I would say that these five are all fairly good.
+The Cook estimator seems like a little bit further apart than the rest,
+but these five do a nice job, and the best was Kross.
+So if you need more precision, go with that one
+if you're looking at large datasets encompassing the modern era.
+But if you're thinking about more recent times, looking at this column,
+you might want to go with the Pythagorean 1.3 exponent estimator.
+That did the best of the whole group.
+And again, it looks like the Cook winning-percentage estimator
+was the furthest off, where these five estimators were fairly close.
+But now let's talk about a very important concept
+in all of Sabermetrics.
+This idea, again, coming full circle in this track,
+the idea, again, of runs to wins.
+How many runs equals a win?
+When you answer the question, how many runs make a win, the rule of thumb
+is 10.
+It's approximately 10 runs per win, and this approximation
+works pretty well for most things.
+So if we are ever doing analyses that yield
+us runs-- maybe runs created for batters, maybe runs saved for fielders,
+maybe runs created for base runners, runs saved from outfield arms,
+runs saved from catcher framing-- whatever we're looking at,
+and we can get to runs, we can always do the approximation.
+10 runs is one win.
+So we can say, if a shortstop saves 20 runs with his defense, well,
+that's about two wins a year for that shortstop as a defender.
+But we can take these formulae.
+We can take these winning-percentage estimators.
+And remember the basis of all these formulas.
+They all involved runs scored by the offense,
+and runs allowed by the defense.
+Let me show you a quick graphic here of our query
+that gave us these winning-percentage estimators.
+And here it is.
+Let's look at each of these six estimators we've talked about.
+Cook relies on runs and runs allowed.
+Soolman, same thing-- runs scored, number of games
+played, runs allowed, number of games played.
+The Bill Kross winning-percentage estimator-- runs scored by the offense,
+runs allowed.
+That's what's in the formula.
+Same thing with Smith, and same thing with the Bill James Pythagorean
+versions of winning-percentage estimators.
+All these winning-percentage estimators look at runs.
+So what if we now replace in any of these equations
+the runs saved, or the runs earned, or created,
+by batting or other parts of the game?
+So if we can break down parts of the game to runs,
+and we know whether it's offense or defense,
+we can start putting them in these formulas, and estimating the wins.
+This is the basis of a very common statistic
+talked about today, which is WAR.
+WAR stands for Wins Above Replacement.
+And when you do WAR analyses-- when you try to estimate WAR as a statistic,
+getting at value of player, you always get to wins.
+Well, how do you get to wins?
+Well, you get it through runs.
+You have different runs estimators for different parts of the game,
+and you can use these more precise winning-percentage formulas
+to get at how many wins somebody contributes.
+Let me run you through a quick example of this.
+But in general, we can improve upon this notion of, oh, it
+takes 10 runs per win.
+10 runs for a win-- well, how do we improve that?
+Well, let's look at, say, our favorite here, which
+is the Bill James Pythagorean theorem with the 1.83 exponent.
+Winning percentage is runs to the 1.83 power,
+divided by runs to the 1.83 power, plus runs allowed to the 1.83 power.
+Add those together.
+They're in the denominator.
+Do this calculation, and we have a very good estimate of winning percentage.
+But now, if we know a certain shortstop saves us 20 runs,
+we can reduce the runs allowed here in our formula,
+and know how much our winning percentage is going to increase.
+And then when we know the winning percentage increase,
+we can actually start calculating.
+The winning percentage is, by definition, wins over wins plus losses.
+This just represents games.
+This is the term for games played.
+ 
+So we can get at wins through these various win-percentage estimators.
+ 
+So this is the heart of modern analyses and Sabermetrics.
+You want to get at runs.
+ 

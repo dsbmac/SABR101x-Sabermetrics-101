@@ -1,0 +1,146 @@
+ 
+ANDY ANDRES: So let's talk about Hugh Fullerton, sabermetrician.
+Hugh Fullerton, sabermetrician here.
+And this article that we're going to cover first was written in August 1906.
+Now, August 1906 precedes his work in October 1906
+where he does that careful analysis of two teams going against one another
+and determining which team would win a short series like the World Series.
+So before he even does his forecasting work that actually distinguishes him
+in the baseball writers world of the day,
+he publishes this small article in the Washington Evening Star
+called the "Chances of Things Happening in Baseball Games."
+Now, a direct quote from this article is "But what
+the chances are of certain play being pulled off successfully, few know.
+I wanted to find out."
+So he lays out the case that he's going to do play by play analysis here.
+Play by play analysis really wasn't done much before this article,
+before Fullerton starts this work.
+So Fullerton saw many games as a sports writer
+and he kept score sheets, scorecards, of the plays of the game.
+So what we're seeing here is Fullerton using his observational skills.
+He was a keen observer of the game watching many baseball games,
+and he let his natural curiosity take over
+as he started to ask questions about the game.
+Now, he had data in his score sheets.
+Using that data, he tried to find out more information about the game itself.
+He was trying to better understand some of the basic probabilities of the game.
+Some of the basics.
+When I say basics, I mean how many runners
+get to first, second, third, and actually score, get to home and score
+a run for the team.
+So some of the basic questions like that.
+And then how many times does the runner score from second base on a single,
+and how many times is he thrown out at home plate.
+So just basic questions like that he starts to ask.
+But then he does a lot of analysis beyond that at sacrifices.
+He looks at sacrifice bunts and hits to try
+to better understand the value of that play.
+He looks at stolen bases and analyzes how stolen bases work in the game.
+He also looks at squeeze plays, the specific
+plays when you bunt to try to get the runner home from third.
+And then he analyzes a common play of the day called the slashing play.
+ 
+But he's answering some basic questions about the game with the data
+he collected in his score sheet by analyzing, again, play by play data.
+Play by play data is what he's using from his score sheets to help
+understand these particular plays- sacrifices,
+stolen bases, squeeze plays, et cetera.
+So let's look at some of the data that Fullerton covers in this article.
+He had score sheets and play by play data from 158 games.
+And in those 158 games, he analyzed over 12,000
+at bats with over 2,500 hits, 929 walks, 62 hit
+by pitches, resulting in a 209 batting average, which
+should tell you something about the era of the game.
+This was the Dead Ball era.
+And all in all, he had a 7% walk rate from these 929 bases on balls.
+So after Fullerton describes his basic play by play data results, the basics,
+he turns his attention to sacrifice bunts.
+And he counted 911 situations in those 158 games
+where a sacrifice bunt was attempted.
+And out of those 911, 582 were successful.
+And successful meant different things.
+Sometimes there was a throwing error by the defense.
+Sometimes the batter actually got a hit.
+And the other times it was just successful
+because they move the runner from first base to second base.
+Now, interestingly, he says that 81 times it helped win games.
+In other words, that attempted sacrifice turned the tide of the game
+or won the game.
+That's an awful lot.
+If you think about it, he's only looking at 158 games.
+So half the games, essentially, are influenced directly
+in terms of winning or influencing the game with sacrifice bunts.
+I think with this goes to show is the importance of this play in the Dead
+Ball era.
+Now, he goes on to say this was a discouraging result, because it
+actually wasn't that successful.
+Before he actually ran the numbers, he thought
+this play was actually more successful than it turned out to be.
+He goes on to mention that 92 times out of the 911 situations,
+the defense actually got the advancing runner at second base.
+Just part of those discouraging results.
+Now, moving on, he talks about the hit and run play.
+And he calls that "slashing into the ball."
+It was a common play of the day that the batter would actually
+try to slash into the ball and drive a grounder through the infield.
+That's what he meant by slashing into the ball in a hit and run play,
+as another way to advance the runner a base as a sacrifice play.
+And this was very discouraging.
+This play didn't work well at all.
+The success rate of slashing was about 59%,
+where the success rate of the sacrifice bunt was about 64%.
+So the sacrifice bunt success rate was about 64%.
+So 64% here.
+The slashing play was only successful 58% of the time.
+But the big problem with the slashing play is when you made the mistake
+and it didn't work, you've got a GIDP.
+You basically got a double play.
+A ground ball into a double play.
+And that was-- that's always an inning killer.
+Anyone who plays or watches the game knows the value
+of a double play if you're on the defense
+or how it crushes an offensive attempt from the batting side.
+So one of the big results of this simple analysis by Fullerton
+is a real discouragement around the art of the sacrifice bunt,
+or the art of slashing into the ball to actually advance the runner one base.
+The next play he analyzes is the stolen base.
+And he notes that stealing third base is actually more successful than attempts
+at stealing second base.
+The percentage success rate was actually much better when trying for third.
+Now, these numbers are numbers that are lower than current sabermetric thinking
+likes to see, but that was the era.
+That was the time when there were more stolen base attempts.
+It was a bigger part of the game.
+The next thing he looks at are the squeeze plays.
+And the squeeze plays, if you're not familiar with them,
+are when the batter tries to bunt the runner home from third base.
+11 times out of 16 in the 158 games analyzed, the squeeze play
+was successful.
+And of the five times it didn't work, four
+were because the batter missed the ball and the runner
+was actually tagged out because of the missed bunt.
+The next thing that Fullerton looks at is
+very similar to a current sabermetrics principle
+called run scoring probabilities.
+And Fullerton attempts to measure run scoring chances, he calls them,
+run scoring chances-- which is very similar to run
+scoring probability-- of scoring after starting on first base.
+So if you get to first base by a hit, hit by pitch, reach on error,
+walk, fielder's choice, any way you get on first base
+as a runner, what are your probability of actually
+scoring a run once you get there?
+Well, it turned out in that era at that time, and with Fullerton's data,
+you've got a 25% chance of scoring.
+He had over 3,900 runners at first in his data set,
+and 974 runs were scored out of those 3,900 runners at first.
+He also analyzed runners at third base and looked
+at the probability of scoring with either two outs, one out, or no outs.
+And so these are the probabilities he came up with.
+So a real early attempt at situational run scoring probabilities.
+This is just a brief introduction to some very early play
+by play analytics done by Hugh Fullerton.
+So going back to our definition of sabermetrics,
+there's no doubt Hugh Fullerton was an early sabermetrician.
+Close observer of the game, letting his natural curiosity
+take over to ask some questions about the game.
+And he certainly had the data set to help answer his questions.

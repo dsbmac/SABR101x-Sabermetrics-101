@@ -1,0 +1,152 @@
+
+ANDY ANDRES: So let's look again at the scoring index by Earnshaw Cook.
+The first scoring index he describes is in his 1964 book, Percentage Baseball.
+And this is the formula.
+And it looks very complex.
+What this represents is pretty straightforward though.
+We can break this down and better understand it and then reconfigure it,
+so it's even more understandable by today's sabermetricians.
+The p here, each of the p's in the formula, represents probability.
+So the whole scoring index-- and he calls this DX.
+His little abbreviation for scoring indexes.
+p stands for probability.
+So the probability that you score a run is given by the scoring index.
+And it involves a constant multiplied by a term,
+which includes the probability of getting
+a hit, the probability of getting a walk, the probability of reaching
+on an error, probability of hit by pitch.
+You subtract out extra base hits, and sacrifice hits.
+Then you multiply the whole thing by the probability of the total bases.
+So this is his first formula.
+And we can reconfigure the formula to look like this.
+And convert it to something that looks a little bit more
+like runs, rather than the strange probability equation above.
+So this probability equation is a little cumbersome.
+But you can think of it as occurring on every plate appearance.
+You could think of it as the entire equation
+has plate appearances in the denominator.
+That's what probability of an event happening implies.
+So this equation can be reconfigured with plate appearances
+in the denominator.
+And you get a new formula like this.
+DX, this scoring index formula by Cook, that implies something like runs
+is the constant times this term here, which is singles.
+And singles comes from hits minus extra base hits.
+Hits is total hits.
+The extra base hits are the non singles.
+So this is essentially the probability of a single, a walk, a reach on error,
+and hit by a pitch.
+So we reduce this term here by just making it singles.
+And we subtract twice the sacrifice hits.
+Now sacrifice hits are not in favor by Cook at all.
+So he adds this in his formula.
+So this is the first term here.
+And he multiplies the whole thing by total bases.
+But the implication is that it's all divided by plate appearances.
+So we can convert Cook's probability form of his scoring index equation.
+The probability form is this one here.
+We can convert it by the implied division
+by plate appearances that's inherent in the probability of scoring runs
+by the team, when that batter is at the plate.
+So we get this new form.
+And there's a lot of familiar things in here.
+But it's a little different.
+He's got total bases divided by plate appearances, which
+looks similar to slugging.
+He's got on base sort of things divided by plate appearances, which
+looks similar to on base percentage.
+It's not quite what we've seen before in terms of OPS, but it's OPS like.
+It's similar to OPS in a way.
+So this is his 1964 formula.
+In 1972, Earnshaw Cook comes out with a second book called Percentage Baseball
+and the Computer, which is essentially a shorter book.
+But running all his ideas through a simulator, through a computer
+simulator.
+And he changes his scoring index formula.
+So this is the first version.
+Runs are essentially getting to first base,
+taking away double these sacrificed bunts.
+Multiplying by total bases, and divided by plate appearances.
+Well, this is the second form of the scoring index by Cook.
+And this is explicit in his book.
+He changes the formula to be hits plus walks plus hits by pitch.
+Multiplied by total bases.
+And he adds another term in here around stolen bases.
+He adds stolen bases and takes away caught stealing.
+And then divides by some form which is almost plate appearance.
+This is almost plate appearances.
+So it looks a little like OPS, and runs created.
+More like runs created than OPS, because this is a multiplication term,
+than an addition term.
+Some form of getting on base, divided by similar approximation
+to plate appearances.
+It's multiplied by total bases.
+You take in the stolen base success, to get another measure of movement
+around the bases.
+Again, divided by some estimate of plate appearances.
+So this is his new scoring index.
+And so Cook describes both of these things.
+And these again are, in some way, they're
+an estimation of the impact of that batter on runs.
+The impact of the batter on runs.
+Now, he frames it in the beginning in a little more complicated terms,
+using percentages of runs scored when that batter comes to the plate.
+We've seen similar formulas to this before.
+But remember, this is published in 1964 and 1972.
+So he really is one of the pioneers in this whole area,
+looking at another measure of run scoring.
+Now this is similar again to what Roth and Rickey did.
+Bottom line, these 2 formulas by Earnshaw Cook share similarities
+with OPS.
+OPS comes out in 1973, invented by Pete Palmer.
+And shares some similarities with runs created, created by Bill James
+even later than that.
+So the history of sabermetrics should recognize these contributions
+by Earnshaw Cook, as part of the progression
+of measuring hitting performance.
+
+The other thing Cook offers is probability
+of run scoring in each of the 24 game states.
+The 3 potential out states are 0, 1, or 2 outs.
+And this is multiplied by 8 different base states, the runners on base.
+There can be no one on base.
+That I'm going to represent by 3 dashes.
+There could be a man on first.
+And there could be a man on second.
+And a man on third.
+There can be men on first and second.
+Men on first and third.
+Men on second and third.
+And then of course, men on all bases.
+This describes each of the different states of having men on base.
+So we can think about the game-- and people started
+doing this early on-- that there are 24 states.
+There's an out.
+And then there's a runner on base state.
+This ends up being 24 cases.
+So what Cook does is describe the probability
+of scoring runs in all these different game states.
+So he devises 24 different equations for the 24 different game states.
+And he has this huge complex probability model for each of these game states.
+And he bases it on run scoring.
+This was done earlier in the '50s by Lindsey, who we'll cover next week.
+This idea of looking at run expectancy, run probability.
+But Cook does it early as well too.
+And he does it with this complex probability model
+that he used also for his scoring index.
+But the reason he thinks he's on to something
+here-- Cook likes this idea-- is he actually gets to percentage baseball.
+He can look at percentage baseball.
+Because he can see, based on the scoring index of the batter,
+the batting ability of the batter, the probability that batter
+will lead to a run by the offense.
+Also spinning in each of the probabilities
+that can occur with each of the 24 game states.
+He can start describing how the game will play out.
+That you can really play percentage baseball at this point.
+You really can play percentage baseball at this point,
+because you know the percentages.
+You know the percentages of all the different game states.
+The 24 games states.
+And you know the percentages of the scoring index
+based on the batter who's at the plate.

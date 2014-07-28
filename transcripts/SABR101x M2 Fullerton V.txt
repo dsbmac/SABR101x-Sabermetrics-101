@@ -1,0 +1,164 @@
+ANDY ANDRES: Let's look at another article
+written by Hugh Fullerton in 1910, published in The American Magazine,
+which again shows his early attempts at some sabermetrics.
+This article is called "The Inside Game, the Science, the Science of Baseball."
+Here's one of the figures in the article written by Fullerton.
+What he's trying to show in this doctored photograph are grooves.
+He calls them grooves.
+There's infield grooves here, here, here, and then down the lines.
+There's five infield grooves.
+And then there's home run grooves here and here.
+And then there's these safety zones for bunts here and here.
+Based on his observation of the game, hard hit ground errors
+on the infield grooves make it through for hits.
+These are the areas in the outfield where your chances of outfield hits
+go up.
+And these are the areas where you have the better
+chances of getting on base with a safe bunt.
+Grooves are places where the ball ought to go safe.
+The batter should be able to get on base.
+This is looking at fielders' range and their ability
+to cover parts of the field, and then looking at batters' ability
+to hit the ball in certain areas of the field, or certain zones of the field.
+Now one of the things that he points out here, a big piece of his article
+that he's bringing up is something he calls
+teamwork, teamwork of the defense.
+Fullerton looks at score sheets of college games,
+some various levels of the minor leagues,
+and then of course, major league baseball games
+that he's scoring himself.
+So looking at these different levels of baseball,
+he tries to measure the number of balls that
+get through the infield on the ground as a measure of the teamwork
+of the defense, the teamwork of the defense.
+So let's look at those data.
+So Fullerton recorded ground ball data, play by play ground ball data
+at the college level, at a low level of minor league baseball called
+the Central League, so a lower minor league baseball team,
+the American Association, which was a higher minor league baseball
+team, and then data from the major leagues.
+And what he found analyzing the ground ball data in each of these levels
+is that one out of eight ground balls made it through the infield for a hit.
+One out of eight ground balls in college made it through the infield for a hit.
+When he look at a low level minor league set of data, it was one out of 10.
+One out of 10 ground balls made it through the infield for a hit.
+At a higher level of minor league baseball, it was 12.
+One out of 12 ground balls made it through the infield for a hit.
+And in the majors, it was one out of 15.
+One out of 15 ground balls made it through the infield to become a hit.
+Ground balls struck by the batter made it through the infield as a hit.
+Now you can see that these numbers are increasing,
+meaning that the defense was getting better and better
+at fielding the ground balls hit by the batters.
+Now of course, it could be the skill of the pitcher.
+Maybe the pitcher here is a better pitcher,
+inducing more weak ground balls.
+ 
+Fullerton rejects that.
+He thinks it was about the same.
+But what he ascribes this improvement in team defense,
+infield defense-- he calls it teamwork of the defense.
+And essentially, he says it's positioning, which makes sense.
+Maybe you position the infielders in the right spot.
+But more than that, he calls it signaling.
+And he goes on to describe how teams signal
+each other to position themselves and anticipate where the ball's going
+to be hit, based on what the pitcher is going to pitch,
+the type of pitch he's going to pitch, the location he's going to pitch it.
+The infielders anticipate where to go.
+So the primary objective in signaling, according to Fullerton,
+is to enable the defensive players to start in the direction of the ball
+that it's expected to be hit.
+And as players move up the system towards the major leagues,
+they develop much better signaling habits and anticipation
+of where the ball is going to be hit.
+Therefore, they're going to field more ground balls
+and reduce the number of hits, reduce the number
+of hits that go through to the outfield.
+He essentially says that as you move up to higher levels of baseball,
+you reduce the grooves.
+The grooves get smaller because of teamwork.
+Very interesting sabermetrics.
+Makes complete intuitive sense.
+But Fullerton observed something and gathered data
+to try to support his observations and answer his questions.
+He was truly acting like a sabermetrician.
+ 
+Another very interesting thing that Fullerton
+reports in this article in The American Magazine is the data shown here.
+These are his diagrams showing the range of the left fielder, center fielder,
+right fielder, and then all the infielders
+and how they respond to various batted balls.
+He's diagramming the range of each of the fielders based on his observation.
+So he kept track of the movements of various players.
+And one of his big conclusions is that the outfielders
+and the middle infielders actually move better going forward.
+There's more distance covered if they're going forward towards home plate,
+as opposed to backwards away from home plate.
+That's one of his observations.
+But here we get a diagram looking at the range covered
+by each of the defenders on the field.
+As MLB advances technology, we're going to get much more precise data,
+much more accurate data about the range of various defenders in baseball.
+ 
+Another diagram he shows is the movement of one second baseman
+throughout the game on various kinds of plays.
+He graphs it here as different innings.
+There's different innings in his diagram.
+But you can see that the second baseman has different starting positions,
+depending on the situation of the game.
+You know, he does this funny calculation of the actual distance
+covered by the second baseman.
+So for the first time, we're getting better range data
+and certainly reporting of range and movements of defenders on the field.
+Now finally, the last thing that Fullerton covers
+is looking at batted ball data.
+He looked at 10,074 batted balls in his score sheets.
+Any he broke them down into ground balls, fly balls, line drives,
+and bunts.
+Ground balls, fly balls, line drives, and bunts.
+So out of the 10,074 batted balls, he recorded 51% were ground balls,
+36% were fly balls, 9% were line drives, and 3% were bunts.
+Now in 2013, this is 2013 data reported at Baseball Reference,
+there were about about 42,000 batted balls in 2013.
+And the percentages again for ground ball, fly ball, line drive, and bunt
+were pretty similar to what Fullerton reports.
+In 2013, it was 45% ground balls, 29% fly balls, 24% line drives,
+and 2% bunts.
+This is what's reported on Baseball Reference for 2013.
+So you see that they are comparable.
+Obviously, there's more data collected in 2013 than Fullerton had.
+But this is an awful lot of batted ball data
+that Fullerton collects and analyzes.
+And he's pretty close to what we see.
+The line drives are little off but otherwise,
+it's near what we measure today in modern baseball.
+ 
+Now what's interesting are the batting averages
+reported for each of these things.
+So I'm going to list here the batting average on each of these batted ball
+types that Fullerton reports.
+The batting average reported on ground balls for Fullerton
+was 82, not a great batting average.
+The fly ball batting average was 207.
+The line drive batting average from Fullerton was 774.
+And the bunt batting average according to Fullerton was 450.
+So 82-- 082 if you want to put the decimals there--
+082 batting average for ground balls, 207, 774, and 450.
+Well, how does that compare to modern baseball?
+Well, ground ball batting average in 2013 was 167, fly balls were 241,
+line drives were 670, and the bunts in modern baseball were 407.
+So these are modern batting averages.
+And batting averages were also reported by Fullerton.
+That's why we use batting average as a comparison.
+The point is it's in the ballpark.
+It's pretty close.
+It's not exact.
+But Fullerton did this over 100 years ago,
+collecting these batted ball data to try to better understand
+how the different batted ball types impact batting performance as measured
+by batting average.
+So there's Hugh Fullerton, writer, forecaster, scientist,
+and sabermetrician.
+I don't think he's appreciated as much as he
+should be by modern sabermetricians and fans of the game.

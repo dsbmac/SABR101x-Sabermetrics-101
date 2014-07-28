@@ -1,0 +1,108 @@
+ 
+ANDY ANDRES: So this is the SQL query I ran
+to look at winning percentage estimators.
+So let's go look at some of the plots I made of these data.
+ 
+This is the data from 1901 to 2013.
+All these data points, each point here is a team season, team season.
+And we just put a best fit line here through these data.
+We plotted the actual winning percentage of each team and their seasons
+in the modern era.
+The actual winning percentage is always on the x-axis here.
+And we used the Cook estimator.
+Remember what the Cook estimator was.
+It was 0.484 times runs over runs allowed.
+This term get you the estimate of the winning percentage.
+So you take the runs the team scored, the runs allowed by that team.
+But in this formula, you predict the winning percentage of that team.
+And that's what this represents.
+This is a pretty tight correlation.
+The coefficient of determination is a very high 0.88646.
+Let's move through some of the others.
+The next five I'm going to show are all the 1901 to 2013 modern era data set.
+So let's look at those.
+The next winning percentage estimator is Arnie Soolman--
+winning percentage estimator.
+That's 0.89622.
+0.89622 is his coefficient of determination
+in the 1901 to 2013 data set.
+So this is the Bill Kross winning percentage estimator.
+And the coefficient of determination is 0.90137.
+Here's the David Smith winning percentage estimator, 0.90123.
+Here's the Bill James with the exponent of two winning percentage estimator.
+And here's the Bill James estimator with the exponent 1.83.
+I'm going to do a summary table later to talk
+about how close these estimators are and how we can distinguish them.
+But now let's look at the second data set here.
+This is a smaller data set.
+What we're looking at here are data from 1955 to 2013.
+And again, this is a somewhat arbitrary choice
+because I like starting a lot of analyses at 1955
+when I do sabermetrics.
+What's odd here is that we lose a great team, the 1954 Cleveland Indians.
+They were a fabulous team with a wonderful winning percentage.
+Yet they're not in this data set.
+So the team with the highest actual winning percentage out here
+is the Seattle Mariners, 2001.
+Seattle Mariners in 2001 is this data point right here.
+We're showing here again the coefficient of determination
+in this data set for the Earnshaw Cook ratio estimator.
+Remember what that was again.
+It was 0.484 times runs divided by runs allowed
+gets you these data here on this side that are plotted off this axis.
+So let's run through these data.
+Remember these data sets are 1955 to 2013.
+Here's the Cook Estimator, the Soolman estimator, the Kross Estimator,
+David Smith's estimator, Bill James exponent
+two estimator, Bill James exponent 183.
+So shortly, I'll get to a summary table including all these coefficients
+of determination in these two sets of six winning percentage estimators.
+But before that, I want to do something a little unconventional.
+I want to scroll through these graphs fairly quickly through my Powerpoint
+deck here so you get a sense of how similar these clusters of observations
+are around the line of best fit.
+OK?
+So I'm going to scroll back through the sixth 1955
+through 2013 team season observations about winning percentage for each
+of the six estimators.
+So there's the different ones.
+And just get a glancing sense of how well
+these data cluster around the line of best fit.
+They really do go together.
+Now, let's go forward to the bigger data set, the 1901 to 2013 team season data
+set.
+There's over 2,300 observations in this data set.
+And again, the clustering of the observations
+around the line of best fit is what I want to show you here,
+the clustering of the observations around the line of best fit.
+Bottom line, these estimators do a pretty decent job.
+They get very close to the actual winning percentage.
+And let's go through a table to talk about these differences in the two
+different data sets and plus the six different estimators.
+ 
+Here's a table summarizing the coefficients of determination
+for each of the six estimators.
+There are four columns here for each of the six win percentage estimators,
+trying to summarize how close each of the estimators
+actually were the team winning percentage, the actual team winning
+percentage.
+These first two columns we'll discuss shortly.
+But these are the two columns of coefficients of determination
+that we've been showing you.
+And as you can see, when comparing these coefficients of determination,
+hopefully you get a sense how close they are, how similar they all are.
+And there's a slight difference in magnitude between the larger data
+set and the smaller data set, which is explained just by sample size.
+But just look within the column how similar they all are.
+Now, if you have to choose the highest coefficient of determination,
+it would be this one here for the bigger data
+set starting in the modern era and this one here for the 1955, 2013 data set.
+But these numbers are very close to these two numbers,
+so the two different Bill James Pythagorean
+win percentage estimators did a nice job.
+But you're really picking nits if you think this is a whole lot better
+than the Smith version or the Kross version.
+So all in all, the take home message here is yes, we can pick the best.
+And if we really need more precision in this, we should go with the best.
+But they're all very similar and they all do a nice job.
+ 

@@ -1,0 +1,146 @@
+ANDY ANDRES: So as we think of the run scoring environment
+changes throughout the time of major league baseball,
+inevitably you're going to start talking about some of the other things
+we measure in the game to help explain some of the differences.
+For example, small ball or "scientific baseball," as it used to be called.
+The Earl Weaver strategies of hitting home runs, power ball.
+Let's look at the data that helps us understand
+how the game might have changed over time.
+Here is a graph of home runs in the modern era.
+This is home runs per game by a team.
+And we can see there's this gradual increase over the past 110 years
+from about one home run every five games or so during the dead-ball era,
+with our little spike year when the ball changes.
+And then the transition to new rules about pitching,
+Babe Ruth obviously, and the new rules about replacing
+the ball to another era, the live-ball era, where home runs increase
+to about one every two games or so.
+And then, of course, we have the war years where the game is in transition,
+and there's a little change in home run power.
+But then we have the integration era following
+the war, where we get another rise in home run rates,
+so we're getting close to about 0.9 home runs per game in the '50s and '60s.
+And then, expansion happens.
+And when we look at the home run rates during this expansion era,
+we see it's much more random, much more variable.
+And this could be explained by expansion itself,
+the potential dilution of talent.
+But then we get this very distinct place here, the power era,
+where home runs are over one a game.
+Now let's review what's happened since 2010.
+In 2010, the home runs per game were 0.95-- 0.95 home runs per game.
+At 2011, that went to 0.94.
+2012, it went to 1.02, and then 2013, we had 0.96.
+As you can see, that sort of stabilized right about here.
+Now it's lower than the power era, but it's sort of stabilized right here.
+A very obvious trend though is the increasing home runs over time.
+This is certainly happening.
+So home runs are a bigger part of the game then they used to be.
+Back in this day, they used to be called scientific baseball, or small ball.
+This is the small ball era, some people called it scientific baseball,
+but you can see the game is much different.
+The game that Hugh Fullerton and F.C. Lane talk a lot about
+is this time right here.
+But let's move on to a description of three different variables.
+We're describing here home runs per game in the blue diamonds,
+and we saw that trend here, an increasing trend.
+We even showed the data before the modern era, in the 19th century.
+We look at stolen bases that were recorded and also
+sacrifice hits, OK, bunts.
+And you can see that stolen bases were much more prominent in the 19th century
+game, but as we look at the modern era-- we'll
+look at this at just the modern era.
+There are bigger trends going on here in terms of stolen bases, bunting,
+and home run hitting.
+One big one is the obvious decreasing trend of bunts over time,
+stabilizing to about 0.3 per game.
+And you can see in the small ball scientific era
+a lot more stolen bases occurred, and it sort of increased a little bit,
+and then sort of stabilized here.
+And we already saw the home run rate increase in the blue diamond trend.
+Let's look at this in just the modern era.
+And here we have the data from the modern era, again the home run trend.
+And then, of course, this time when there was more bunting going on.
+Then it decreased dramatically and sort of stabilized to a lower bunting era,
+bunting a lot less now.
+And then obviously, the shifting stolen base trend over time.
+So you're a sabermetrician, you're a data scientist.
+Observe these data, think about what they might mean.
+Think about what it says about the game and how it's played,
+and how to potentially win the game, and/or play the game differently
+with different strategy.
+That's what sabermetrics is, the scientific approach
+toward understanding the game of baseball better.
+One other trend that is very interesting in the game, in the modern era,
+is the strikeout rate, strikeouts per nine innings.
+There is an increasing trend.
+Very much like the home run rate, there's an increasing strikeout rate.
+Strikeout rates were about four per game three
+to four per game in the dead-ball era.
+In the live-ball era, they decreased to certainly three to four
+per game, a little slight decrease from the dead-ball era.
+There was a decrease.
+Then, of course, the war years didn't change much
+in terms of strikeout rates, but there's this increasing strikeout
+rate through the integration era.
+There's an increasing strikeout rate through the integration era.
+And it's interesting to consider potential causes for this, again.
+Let this be a discussion forum topic if you
+want to explore potential hypotheses here
+about why there's this increasing trend in strikeouts during the integration
+era.
+And then during the expansion era from the '60s to the mid '90s,
+this area here, we see sort of a dip in strikeouts
+and then an increase in strikeouts that continued
+through the power era and even today.
+Let's review strikeout rates.
+Since this graph was made in 2010, the last point here,
+the strikeout rate was 7.06 k/9.
+2011, 7.1 k/9.
+2012, 7.5, a real increase, it looks significant,
+and then 2013 we're up to 7.55 strikeouts per 9.
+So there was this leap in strikeouts, and it's trended up to here.
+We're right about here now.
+This trend has sort of continued.
+Let's observe these data, and consider what
+might have caused this increase during the integration era.
+What might have caused this increase during the expansion era
+and into the beginning part of the power era?
+You could potentially say that there's some stability in strikeout
+rates during the power era, but now we're
+seeing another increase in strikeout rates.
+What are potential causes, potential hypotheses or explanations
+for these trends in the data?
+When we look at both graphs together, the increasing home
+run rate and the increasing strikeout rate,
+it makes you think that they go together.
+Well, what does that mean?
+What are potential explanations, potential hypotheses
+for why these might go together?
+And this is what a sabermetrician asks, that's a question that they're
+trying to explore.
+So since we see these increasing trends we might think that they go together.
+And when we think they go together, we might
+want to plot the data in a bivariate fashion, which
+is the lesson later on this week.
+So let's look at this graph where we're plotting on the x-axis each
+of the year's average home runs per game.
+ 
+And remember, over one is the power era, so here is the power era data.
+And, of course, that's where we had the highest strikeout rates, too.
+Strikeout rates are plotted on the y-axis.
+And as we look over all the data in the modern era for every dot,
+every point here represents a year, the average of all teams' home run rates
+and all teams' strikeout rates.
+We can see that there is a trend here, and we
+can look again at the R squared variable.
+R squared is the coefficient of determination.
+We talked about that in an earlier video in this course,
+and it just describes how two variables are related to one another.
+And there does seem to be a relationship between strikeouts and home runs.
+Higher strikeout rates go with higher home run rates.
+Lower strikeout rates go with lower home run rates.
+But hopefully through this segment, you've
+got a better sense of the changing run scoring environments that
+have occurred through baseball since the start of professional baseball in 1871.
+ 

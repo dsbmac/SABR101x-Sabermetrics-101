@@ -1,0 +1,194 @@
+ 
+ANDY ANDRES: For module three, in the History of Sabermetrics track,
+we're going to look at F.C. Lane, Ferdinand Cole Lane.
+And F.C. Lane grew up in Massachusetts on Cape Cod
+after being born in Minnesota.
+And he graduated from Boston University in 1907.
+A little shout out to BU as being hot bed for Sabermetrics.
+But F.C. Lane, like the others we've covered
+before him, Fullerton and Chadwick, was a writer.
+He was the editor for many, many years of a monthly called the Baseball
+Magazine.
+And over his time as a writer for the Baseball Magazine
+and an editor of the Baseball Magazine, he wrote over 1,000 pieces on baseball.
+And one of his little niches, because it was the Baseball Magazine,
+he was able to write longer features than some of the other newspaper
+writers of the day.
+Since he liked to travel, he would travel in the off-season
+to players' off-season homes and do feature articles
+more in depth about who they were and what
+they liked to do in their off-season.
+He also wrote a lot about the game, talking about the science of the game
+and how the game was played in the dead ball era.
+A lot of researchers look at his articles
+mainly for biographical information, because they
+were so expensive and thorough.
+He also wrote a very important book that's been reprinted multiple times,
+called Batting.
+He wrote it in 1925, and in it, he's got extensive interviews with batters
+and how they approached their craft.
+So another important book trying to capture the players of the day
+and how they approached batting.
+Now after he retired from baseball in 1937, he retired to Cape Cod,
+but he did spend three years after his retirement as chairman of the History
+department at a small college in Georgia.
+But generally after his retirement, he traveled.
+He traveled with his wife multiple times, and they circumvented the globe.
+He wrote books about travel.
+He even traveled to both the North Pole and the South Pole.
+As someone who teaches biology at Boston University today,
+I found it interesting that F.C. Lane's first job out of college
+was as a field biologist for the state of Massachusetts.
+Given his extensive writing career and all the various things
+he did over his 99 years while on the planet,
+I think it's fair to call him a Renaissance Man.
+But he's distinguished himself in the baseball world
+for his biography of other players at the time and for his early attempts
+at Sabermetrics.
+So let's review some of the material he wrote that is important today.
+One thing he was noted for was a scientific approach to the game,
+thinking about the game more thoroughly.
+This was very similar to Fullerton.
+Fullerton approached the game as an observationist,
+thinking about what he was seeing and asking questions.
+One of the conclusions Lane came up with was
+that batting averages were "worse than worthless."
+Now that's something he wrote.
+He spent many articles trying to make the case that the fans and the game
+itself, the people keeping the record of the game,
+should move away from batting average.
+ 
+So even though Lane never made much headway
+on his crusade to move away from batting average
+as the gold standard for hitting performance,
+he kept at it during his career as a baseball writer.
+Sabermetricians have studied F.C. Lane and looked at as work.
+We've included all the PDFs of his most important papers
+and articles for all of the students here to read,
+but he does sort of this early run expectancy data.
+He does look at the run value of a certain baseball event, singles,
+doubles, triples home runs, walks.
+The other articles he wrote that were very important
+that are still referred to are his articles
+on pitching science, team makeup, base stealing science.
+Interesting to consider that questions regarding the players' makeup
+were being asked even back 100 years ago.
+So all in all, F.C. Lane is a figure worth studying in Sabermetrics,
+and let's talk about some of his key articles.
+One article he wrote was called, "How Runs are Scored."
+And he's looking here at the comparative importance of singles, triples,
+errors, all the rest as a factor in scoring runs.
+And the way he does it, is he looks at run scoring events
+and decides what was the play that led to that run.
+In other words, which baseball event led to a run scoring event.
+And about 40% of the time, it was a single that drove in the run.
+Sometimes it was doubles, errors, home runs, triples.
+So you see the list here of the various ways runs
+were scored, the various events that led to runs being scored.
+And that's a pretty good way to start looking
+at the value of each of these events in terms of run scoring.
+The other study he did in one of his articles
+was looking at batted ball types.
+He did a nice little study of bat-ball impact, the batted ball types
+off the bat.
+He continued his interest in studying the game more in an article called,
+"Batting or Fielding, Which?"
+What's interesting here in this article, he's
+trying to get at which is more important,
+a team full of great batters or a team full of great fielders?
+And he separates out the pitching from fielding in terms of defense.
+He discusses this idea that the game is half defense and half
+offense, half scoring runs and half preventing runs,
+but he doesn't talk about the pitching on purpose.
+He decides, let's just look at the fielding component.
+And he puts together a case study looking at a team with great fielders
+and not so great batters and then another team comparing that
+to another team with great batters but not so great fielders.
+And he comes to the conclusion that batting
+is much more important than fielding in terms of value to the game,
+in terms of trying to win the game.
+So he concludes that you should worry about getting great batters
+over getting nine players with great gloves.
+ 
+Then we get to the key study that Sabermetricians always refer back to.
+This is the 1916 article called, "Why the System of Batting Averages
+Should be Changed."
+And this is where he estimates the value of a single, double, triple, home run.
+This is mostly a theoretical paper where he's trying to make the case,
+and he calls for a revolution.
+He calls for everybody to stop thinking about batting average
+and start thinking about the value of different types of hits.
+One of the great quotes about this concept comes from this article.
+And this is F.C. Lane, "Why would a system that placed nickels, dimes,
+quarters, fifty cent pieces on the same basis, be much of a system
+whereby to compute a man's financial resources.
+And yet it is precisely such a loose, inaccurate system
+which obtains in baseball."
+And this is his argument why batting average is not ideal,
+because it equally values home runs, triple, doubles, and singles.
+He goes on in this article to make the case
+and put theoretical values on a single, double, triple, and a home run.
+And the way he does it, he gives two values to each of the hits.
+The one value is how far around the batter actually
+makes it towards scoring a run.
+So a batter gets a single, gets 1/4 of a run,
+because he makes it 1/4 way around the bases.
+A triple gets 3/4 of a run value because you get 3/4 of the way around.
+But obviously understanding that the hit also advances runners that are on base,
+he assumes that 1/3 of the time there will
+be runners on base on different bases.
+And from that assumption about the times a runner is actually on base
+and then the movement of those runners around the bases based on the hit type,
+he comes up with a decent theoretical model
+of the value of each of these hits towards advancing runners,
+not just the batter runner himself.
+And as you can see, his numbers get very close.
+Here's what he puts the value for each of the events.
+This table here is a summary of a theoretical game
+that Lane goes through.
+A single is given 40% of a run, 40% of a run is a single.
+Doubles get 65% of a run, triple 90% of a run, home runs 1.15% of a run.
+Walks get 0.25% of a run.
+Errors get 0.375 runs, and stolen bases are at 25% of a run.
+He adds these up and gets 7.75 runs from these offensive events.
+ 
+So here's his value again.
+Singles are 0.4 of a run, doubles 0.65, triples 0.9, home
+runs 1.15 of a run, walks 0.25, errors 0.375, and stolen bases 0.25 of a run.
+That's his conclusion, and it's theoretical.
+He's just doing this by observation.
+The next paper is where he gets empirical.
+And he starts trying to put observation to this theoretical idea.
+The next paper is, "Why the System of Batting Averages should be Reformed."
+Very similar title, but he uses reformed instead of the word change.
+So let's look at the data he presents in this article.
+And he presents a table for singles, doubles, triples.
+I don't show the home runs table, but it's there as well.
+This is observational now, and he observes
+how many runners advanced on those singles.
+He also includes an analysis of fielder's choices here.
+And instead of just looking at the advancement of the runners, which
+is the section here, total bases gained, what he looks at also
+are runs scored or driven in.
+How many runs were scored as a result of that single.
+And finally he puts together his summary table.
+This is a summary table of the article.
+This is where he puts a value on a run.
+He says a single is worth 0.46 runs, double 0.79 runs, triple 1.15 runs,
+and home runs are 1.55 runs.
+This is an early attempt on a small sample size
+to try to get at value of runs.
+These analyses have been more advanced since then obviously.
+This is 100 years ago almost.
+We'll talk about that in module four, looking
+at runs estimators when we look at the Sabermetrics track.
+But this is a fabulous start to try to get away from batting average.
+F.C. Lane really tries to make the empirical case
+of the value of different hit events as opposed to just putting them
+all on equal playing field as is done with batting average.
+And remember, batting average was the standard of the time.
+And in his earlier paper, he makes the clear case
+of the value of Gabby Crabbith versus the batting champion Jake Daubert.
+So I encourage you to read all these articles by F.C. Lane.
+We include the PDFs on the edX platform.
+And that's the end of module three.

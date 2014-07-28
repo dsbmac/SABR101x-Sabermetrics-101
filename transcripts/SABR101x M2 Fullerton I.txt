@@ -1,0 +1,107 @@
+ANDY ANDRES: For the history track in this module,
+we're going to be talking about Hugh Fullerton, a writer, forecaster,
+scientist, and sabermetrician.
+Hugh Fullerton was born in 1873 in Ohio and was a good enough baseball
+player to play for the Ohio State Buckeyes,
+and then some semi-pro baseball after he graduated.
+But he starts out as a writer in Chicago right after he finishes college,
+and he becomes a very influential writer through his career
+and a big supporter of the game of baseball.
+We're going to talk about his impact on baseball as a writer,
+as a forecaster, the scientific work he did, and then the sabermetrics
+he also did.
+"Hugh Fullerton, in 20 years, has scored and studied 3,500 professional baseball
+games.
+He is unequaled in his enthusiasm, intelligence, and authority
+on the subject of baseball."
+Now, I claim Hugh Fullerton is less widely
+known compared to, say, Alan Roth, Henry Chadwick, Earnshaw
+Cook, and other older sabermetricians.
+So how does Fullerton distinguish himself
+relative to all the other writers that were out there writing at the time?
+One thing that he gets credited for is using
+direct quotes of players and managers in his articles.
+That, in and of itself, wouldn't put Fullerton
+into the pantheon of early sabermetricians
+and major influences on the development of the game of baseball.
+What Fullerton essentially was was an observer.
+He studied many, many games.
+He wrote about those games, and he recorded those games.
+Just like Chadwick was an observer and a recorder, so was Fullerton.
+Fullerton was also an analyst, though, and he
+tried to analyze his observation to create models and hypotheses about how
+the game worked.
+And that's what we're going to cover in this segment.
+So what does the analytically-inclined writer
+do when the World Series is coming to Chicago in 1906?
+Well, Fullerton analyzed that World Series, and it's an interesting story.
+It's really the beginning of his analytical career.
+Before the Series started, he wrote an article for his newspaper
+predicting a White Sox win in the World Series.
+And this was against all other forecasters.
+ 
+Now, the interesting part of the story here
+is that when he wrote this analysis, he'd picked the White Sox.
+And a man in authority, his editor, refused
+to take a chance in printing such a ridiculous analysis.
+But it turned out to be exactly right.
+His analysis was spot on.
+He picked the White Sox in six games.
+On October 15, after the World Series was over,
+The Tribune came back and published his full article as is.
+They put this different headline at the front,
+where they admitted their mistake of not printing it earlier.
+What were the analytics that Fullerton did in this article?
+What were the kind of information he used to build his forecast,
+to predict the White Sox win in the World Series?
+In this article, which you can read after this video,
+he talks about his system of doping.
+"Doping" is a term used back then about prediction or forecasting.
+He looked at the players on both teams, the White Sox and the Cubs,
+and first he looked at their player statistics.
+If you looked at the statistics straight up,
+it looked very clear the Cubs were probably the better team.
+But as an analyst, Fullerton looked further, beyond the player stats.
+What he decided to look at was the "condition of body and nerve."
+He would go in the clubhouse and talk to the players, and the managers,
+and the clubhouse boys to get a sense of the makeup of the players.
+Were they of the right nerve to perform well
+under pressure, the pressure of the World Series?
+Were they healthy enough to perform under the World Series?
+So he got extra information about the psychology of the players
+and added that into his little model, his little system,
+of doping and predicting which team was going to win.
+Now, the leagues were separate back then.
+There was no inter-league play.
+They only played in the World Series, the leagues played each other.
+So what Fullerton did, being familiar with the National and the American
+League, he started clustering the opposing pitcher types.
+ 
+What he would do is look at the Cub's pitchers,
+cluster them together with American League pitchers
+that the White Sox batters had already seen, and look at performance
+splits against those kinds of pitchers.
+So he's doing early clustering analysis and using
+what we would call splits data, seeing how
+batters performed against certain types of pitchers,
+to help forecast who would be the better team.
+He also was, very importantly, looking at park effects.
+How were the parks different and how would that
+impact the performance of different players?
+He had such good record-keeping, he knew the tendencies of hitters,
+if they were pull hitters or not.
+He had charts and records of where all these hitters hit.
+So looking at the stats, trying to get a sense of their psychology and readiness
+to perform at a high level in a high-pressure situation,
+getting better predictions about how certain batters might
+do against certain kinds of pitchers, and looking at park effects,
+mixing that all together for every player,
+he predicted the White Sox would be the champions in six games.
+And he was exactly correct.
+Again, this was not a popular view at the time.
+Fullerton gained a lot of notoriety with his forecast,
+with his doping system at that point, and he
+would do it every year subsequent to that.
+He would do all these kinds of analyses listed here
+for World Series play to predict World Series champions,
+and he would do that throughout his career as a writer in Chicago.

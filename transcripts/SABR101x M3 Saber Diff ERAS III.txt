@@ -1,0 +1,92 @@
+ 
+ANDY ANDRES: So in the last video segment,
+we left you with this question.
+What to call this era starting around 1960?
+As opposed to the other eras-- the Integration Era,
+which is here, the Live Ball Era, which is here,
+and the Dead Ball Era, which is here.
+What do we call this era here following these other well known eras?
+Well, a lot of things are going on in this time and let's review
+some of the potential effects of what might be changing in the run scoring
+environment since 1960.
+Some people call this the Expansion Era.
+Starting in 1961, they went from 16 teams to 30 teams.
+And here's a diagram representing expansion.
+These thinner arrows here are always two teams being added to the league
+and this thicker arrow here is when four teams were added in 1969.
+You can see the expansion here and potentially,
+if you want to try to analyze it, maybe there's
+a change in run scoring environment with expansion.
+Now that's a good hypothesis.
+People should test that.
+People have looked at that.
+Another thing you might want to call it is the Designated Hitter Era.
+In 1973, right here in 1973, the American league
+started the designated hitter rule.
+Did it change the run scoring environment?
+Well, it's hard to see, but to really do that, you want to compare the AL where
+they have the DH to the NL where there is no DH.
+And the pitchers actually have to bat in the lineup.
+So maybe this era should be called the Designated Hitter Era.
+Maybe it's called the Free Agency Era.
+The economics of the game drastically changed in the mid '70s
+as they added free agency.
+Did that change their run scoring environment?
+Potentially.
+Worth studying and worth asking about anyway.
+And there's also the Interleague Play Era.
+In the mid '90s, they started interleague play,
+where the American league teams would play the national league
+teams at least in a small subset of the schedule
+during the regular season, as opposed to the post season in the World Series.
+So maybe the interleague play has something
+to do with the run scoring environment.
+The wild card started in the mid to early '90s.
+Maybe it's the Wild Card Era.
+Maybe that explains the changing run scoring environments here.
+But this other era here, this sort of era from the mid '90s
+on, people have called it the Long Ball Era, the Power Era, the Steroid Era.
+It was a time of higher run scoring, mimicking the Live Ball Era here.
+You can see how the run scoring environments
+is very similar to these data points here.
+Teams just going about five runs per game in all their games
+during the season on average.
+And so this could be explained potentially by the increase in power,
+potentially the increase in steroid usage by players.
+All these things might explain what's going on there,
+but it's worth discussing.
+Now this is sort of my take on it.
+I think expansion probably had some impact on the game,
+maybe the run scoring environments.
+There are certainly years where it seems to have a greater impact.
+And then there's this other Power Era.
+Now I don't call it the Steroid Era, just because it's not clear to me
+that steroids are the main cause here of this increased run scoring environment.
+Certainly there's more power.
+That's demonstrable.
+You can see more home runs.
+Slugging goes up.
+All measures of power increase during this time.
+But the Expansion Era goes from 1961 at least to that early '90s expansion.
+It doesn't include the last expansion in '98 that had the Rockies and the Rays
+come into the league-- actually the Devil Rays at the time.
+But this is a decent enough explanation for these eras
+that have occurred since then.
+Now this graph only goes to 2010.
+There's been a few years since then.
+Let's review what's happened to run scoring since 2010.
+In 2010, the run scoring on average here, the runs per game for all teams,
+was 4.4-- 4.38, let's call it 4.4.
+In 2011, it went down to 4.3.
+And 2012, what happened to the run scoring environment?
+It stayed at 4.3.
+This is actually 4.28 and this is 4.32.
+Not to quibble, those are essentially the same.
+Now in 2013, it went down a little bit more to 4.17, we'll call that 4.2.
+So there's a slight trend here since 2010 of decreasing run scoring.
+This has occurred and analysts have sort of seen this
+and there's different explanations for this.
+We'll talk about that in a few slides, but the next question I want to address
+is this question of is there a league difference?
+We'll end this video segment and in the next video segment
+go on to discussion of league differences in run scoring.

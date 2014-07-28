@@ -1,0 +1,102 @@
+ANDY ANDRES: So we're back to the SQL Sandbox
+to learn about the SELECT statement in SQL.
+I run a simple query here, the simplest possible.
+SELECT * FROM Fielding, the Fielding table.
+The simplest SELECT statement needs the word "select".
+You need to identify columns here, and we've
+identified all columns by using the asterisk.
+And then the other component to the SELECT statement,
+is you have to tell what table you're using.
+So the SELECT command requires the word "select",
+a column list, the word "from", and the Fielding table.
+And "select" and "from" have to be spelled as shown.
+And the spelling of the Fielding table is case sensitive.
+You need to put the capital F there.
+So I run this query, you can scroll down here
+and see we have many rows in this table.
+I'll run that query again, you'll see that it's going to run.
+ 
+And then we'll get the same answer.
+ 
+So there's our result.
+All the fielding table data is shown here.
+We chose all columns.
+Of course, I can put yearID.
+ 
+And teamID.
+ 
+And put in playerID also.
+So just select some specific columns.
+Let's run that query.
+Instead of choosing all columns.
+But again, we don't have any other criteria.
+We choose all the rows in that table, same as before.
+So that's the second option here on the SELECT statement,
+is to give specific column names, or a list of columns
+that you want to select from your table.
+Now, it's not just columns we can put here
+in the first part of the SELECT statement.
+Columns or expressions can go here.
+Expressions.
+Now, expressions are very clearly defined
+in computer programming languages.
+But basically, they're just sort of calculated statements
+where you create a new variable.
+So let's do that.
+But let's now calculate something called total chances.
+Total chances in baseball are the number of plays
+in which a defensive player has participated in the play.
+So total chances equals assists + putouts + errors.
+So, let's do assists + putouts + errors, and see what we get.
+Let's try that.
+ 
+OK.
+So now, we're getting total chances for all these players.
+Again, let's scroll down to the bottom.
+All the rows in the table are represented.
+But now we're calculating total chances.
+And on this page here, on this little summary table, we have some that are 0.
+David Aardsma in 2004, had 0 chances.
+Maybe he didn't play that much.
+But a bigger number here-- here's 361-- Hank Aaron, 1957 from Milwaukee,
+had 361 total chances-- assists + putouts + errors.
+Assists + putouts + errors.
+So that's total chances.
+Another thing we can do is something called SQL aliasing here, SQL aliasing.
+So we can take this expression, assists +
+putouts + errors that we had calculated here.
+In our SELECT statement, we include here the columns-- playerID, yearID, teamID.
+But now we have an expression, assists + putouts + errors.
+Well we can give that a name, too.
+This is called SQL aliasing.
+We can give that column name a better name.
+So we can call it TotalChances.
+And that's just the definition of it.
+So we have to put in the AS statement here to make for clarity.
+So this formula now becomes the column named TotalChances.
+When I run this query, we're not going to get the expression formula here
+anymore, in a column.
+We should get the better labeled alias for that column.
+So let's run the query, see what happens.
+Processing, processing the query.
+Now we have a new column name.
+It's the same data as before.
+It's the same expression, calculated the same as before.
+But now we've aliased it to a better name.
+So again, in the first part of the SELECT statement,
+this part here, it's either a column name from your table--
+playerID, yearID, teamID-- or an expression which could be aliased.
+Now I could also alias a column name.
+Let's try this.
+ 
+And run the query.
+ 
+Processing.
+Then we changed again the column name.
+So I can alias both column names or fields, that are defined in the table,
+or expressions that I calculate inside the SELECT command.
+All SELECT needs, you need either column names or expressions, following
+the SELECT statement, and you need the FROM statement
+telling SQL which table to look in.
+That's the simplest version of the SQL SELECT command.
+ 

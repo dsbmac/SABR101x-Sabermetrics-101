@@ -1,0 +1,245 @@
+### SQL Queries
+
+# Basic Syntax
+
+# Modify the following query, aliasing the teamID column as TEAM
+
+SELECT playerID, yearID, teamID AS TEAM
+FROM Batting
+WHERE yearID=2013
+
+# Working from the last answer, add H/AB to the end of the SELECT, and name the expression BA
+
+SELECT playerID, yearID, teamID AS TEAM, H/AB AS BA
+FROM Batting
+WHERE yearID=2013
+
+# Using the expression (H+2B+2*3B+3*HR)/AB, add SLG to the previous query (be sure to alias the expression as SLG).
+
+SELECT playerID, yearID, teamID, H/AB AS BA, (H+2B+2*3B+3*HR)/AB AS SLG
+FROM Batting
+WHERE playerID='canoro01'
+
+# Modify the following query to order the results by walks (BB), from lowest to highest.
+
+SELECT playerID, AB, H, HR, BB,
+	H/AB AS BA
+FROM Batting
+WHERE yearID = '2013' AND teamID = 'BAL' AND AB > 50
+ORDER BY BB ASC;
+
+
+# Now let's get only the top HR hitters from the Oakland Athletics. Add WHERE teamID='OAK' between the FROM and GROUP BY clauses, and HAVING HR_CAREER >= 100 to the end of the query:
+
+SELECT playerID, SUM(HR) as HR_CAREER
+FROM Batting
+WHERE teamID='OAK'
+GROUP BY playerID
+HAVING HR_CAREER >= 100
+
+# Modify the following query to only return the stats of players with SLG >= .450:
+
+SELECT playerID, yearID, teamID, AB, H, HR, 
+	H/AB AS BA, 
+	(H+BB+HBP)/(AB+BB+HBP+SF) AS OBP, 
+	(H+2B+2*3B+3*HR)/AB AS SLG
+FROM Batting
+WHERE yearID = 2013 AND AB > 50 
+HAVING SLG >= .450
+ORDER BY SLG DESC
+
+# To the following query, add OPS ((H+BB+HBP)/(AB+BB+HBP+SF) + (H+2B+2*3B+3*HR)/AB) and RC (((H+BB)*(H+2B+2*3B+3*HR))/(AB+BB)) to the end of the SELECT, and sort by highest OPS.
+
+SELECT playerID, AB,
+	H/AB AS BA,
+	(H+BB+HBP)/(AB+BB+HBP+SF) AS OBP,
+	(H+2B+2*3B+3*HR)/AB AS SLG,
+    ((H+BB+HBP)/(AB+BB+HBP+SF) + (H+2B+2*3B+3*HR)/AB) AS OPS,
+    (((H+BB)*(H+2B+2*3B+3*HR))/(AB+BB)) AS RC
+FROM Batting
+WHERE yearID = '2013' AND AB > 50
+ORDER BY OPS DESC;
+
+# Using the query from the last problem as a nested SELECT, return the playerID, HR for all batters in 2013 who hit more HRs than David Ortiz hit in 2013.
+
+SELECT playerID, HR
+FROM Batting
+WHERE HR > (
+  SELECT HR
+  FROM Batting
+  WHERE playerID = 'ortizda01' AND yearID = 2013 
+) AND yearID = 2013
+
+# Modify the nested select query from the previous video to show the w.yearID, MINError, MAXError, STDError for all Pythagorean win predictions from 1955 onwards (do not use the ABS function for any of these). Please use
+
+SELECT w.yearID,
+       Min(Error) AS MINError, 
+       Max(Error) AS MAXError, 
+       Stddev(Error) AS STDError
+      
+FROM (
+     SELECT teamID, yearID, W,
+     G*(R^2)/(R^2 + RA^2) AS predictedW,
+     (G*(R^2)/(R^2 + RA^2) - W) AS Error
+     FROM Teams
+     WHERE yearID>=1955
+    ) w
+GROUP BY yearID 
+ORDER BY STDError DESC
+
+# CONCAT(m.nameFirst, ' ', m.nameLast) AS playerName to the beginning. In order to perform this query, you must join the Master table (aliased as m) to the Batting table (aliased as b), by matching the playerID from the Master table to the playerID in the Batting table. Additionally, remember to include the Batting alias for all statistics taken from the Batting table (for instance, instead of HR like in the previous query, you must change it to b.HR).
+
+SELECT CONCAT(m.nameFirst, ' ', m.nameLast) AS playerName,
+    yearID, G, AB, H, 2B, 3B, HR, R, RBI, SB,
+	H/AB AS BA,
+	(H+BB+HBP)/(AB+BB+HBP+SF) AS OBP,
+	(H+2B+2*3B+3*HR)/AB AS SLG
+FROM Batting b
+JOIN Master m
+    ON b.playerID = m.playerID
+WHERE lgID = 'AL' AND yearID = 2013
+
+# Join the Batting (aliased as b) and Pitching (aliased as p) tables on playerID, yearID, and stint. Then GROUP BY yearID and select the yearID, total league hits by pitchers as a batter as TOTAL_PITCHER_H (only rows from pitchers are returned, so just use H from the Batting table), and total wild pitches as TOTAL_WP. Order by the most recent year. Remember to prefix the columns with their proper table alias.
+
+SELECT 
+    b.yearID,
+    Sum(b.H) AS TOTAL_PITCHER_H,
+    Sum(p.WP) AS TOTAL_WP
+FROM Batting b
+JOIN Pitching p
+    ON b.playerID = p.playerID
+    AND b.yearID = p.yearID
+    AND b.stint = p.stint
+GROUP BY b.yearID
+ORDER BY yearID DESC
+
+# as in the previous lecture, you will need 3 join statements: join Batting b to Master m on playerID, SchoolsPlayers sp to Master m on playerID, and Schools s to SchoolsPlayers sp on schoolID. Sort by slugging percentage from best to worst.
+
+SELECT CONCAT(m.nameFirst, " ", m.nameLast) AS playerName, s.schoolName,
+  b.yearID, b.G,
+  b.H/b.AB AS BA,
+  (b.H+b.BB+b.HBP)/(b.AB+b.BB+b.HBP+b.SF) AS OBP,
+  (b.H+b.2B+2*b.3B+3*b.HR)/b.AB AS SLG
+FROM Master m
+JOIN Batting b
+    ON m.playerID = b.playerID
+JOIN SchoolsPlayers sp
+    ON m.playerID = sp.playerID
+JOIN Schools s
+    ON s.schoolID = sp.schoolID
+WHERE s.schoolState = 'HI'
+    AND AB > 10
+ORDER BY SLG DESC
+
+# Join the Batting table to the Master AND Fielding table (Master on playerID, and Fielding on playerID, yearID, stint). Select the following information for Hunter Pence, where his f.POS = 'RF':
+
+SELECT CONCAT(m.nameFirst, ' ', m.nameLast) AS playerName, b.yearID, b.teamID, b.stint,
+  b.G, b.AB, b.SB,
+  b.H/b.AB AS BA,
+  (b.H+b.BB+b.HBP)/(b.AB+b.BB+b.HBP+b.SF) AS OBP,
+  (b.H+b.2B+2*b.3B+3*b.HR)/b.AB AS SLG,
+  f.POS, f.DP,
+  f.A + f.PO + f.E AS TotalChances,
+  (f.A + f.PO)/(f.A + f.PO + f.E) AS FPct
+FROM Master m
+JOIN Batting b
+    ON m.playerID = b.playerID
+JOIN Fielding f
+    ON b.playerID = f.playerID
+    AND b.yearID = f.yearID
+    AND b.stint = f.stint
+WHERE m.nameFirst = 'Hunter' 
+    AND m.nameLast = 'Pence'
+    AND f.POS = 'RF'
+
+# Execute an inner join of the Batting and Pitching tables, for players in 2010 with at least 1 AB. Include the following:
+
+SELECT b.playerID, b.yearID, b.teamID, b.lgID, b.AB, b.H/b.AB AS BA, 
+    p.IPouts, p.ERA
+FROM Batting b
+JOIN Pitching p
+    ON b.yearID = p.yearID
+    AND b.playerID = p.playerID
+    AND b.stint = p.stint
+WHERE b.yearID = 2010 AND b.AB >= 1
+
+# left join
+
+SELECT b.playerID, b.yearID, b.teamID, b.lgID, b.AB, b.H/b.AB AS BA, 
+    p.IPouts, p.ERA
+FROM Batting b
+LEFT JOIN Pitching p
+    ON b.yearID = p.yearID
+    AND b.playerID = p.playerID
+    AND b.stint = p.stint
+WHERE b.yearID = 2010 AND b.AB >= 1
+
+
+# Now, sort the results by the BA, from highest to lowest.
+
+SELECT playerID, AB, H, HR, BB,
+	H/AB AS BA
+FROM Batting
+WHERE yearID = '2013' AND teamID = 'BAL' AND AB > 50
+ORDER BY BA DESC;
+
+# Use DISTINCT to get every unique teamID from the Teams table.
+
+SELECT DISTINCT teamID FROM Teams;
+
+
+# Modify the following query to return the results for Detroit Tigers players from every year EXCEPT 2012:
+
+SELECT playerID, yearID, teamID, AB, H, HR, BB,
+	H/AB AS BA
+FROM Batting
+WHERE teamID='DET' AND yearID<>2012
+
+
+# Use the DESCRIBE command to see all of the variables in the games table of the Retrosheet database. Please download the results.
+
+describe games
+
+
+# Use this query to get a CSV to explore game statistics in R:
+
+SELECT date, game_number, day, home, visitor, park, outs,
+       attendance, daynight, home_score, visitor_score, game_minutes,
+       home_starting_pitcher_name, visitor_starting_pitcher_name,
+       hp_ump_name
+FROM games
+WHERE date > '2008-01-01';
+
+
+
+# JOINS
+
+
+# Final
+
+# To start, grab every record from the Batting table for Montreal.
+
+SELECT *
+FROM Batting 
+WHERE teamID = 'MON'    
+
+
+# Now, grab every record from the Batting table from 2013.
+
+SELECT *
+FROM Batting 
+WHERE yearID = 2013
+
+# Using the previous two queries and a JOIN, please find all players who once played for the Expos who were still playing in 2013. Please include all of the columns from the previous two queries as well. Remember that we are looking at the intersection of players who played for the Expos and players who played in 2013, so use the appropriate type of JOIN to execute an intersection of two tables. Additionally, remember to use aliases for the tables.
+
+SELECT *
+FROM Batting b
+JOIN
+    (
+    SELECT *
+    FROM Batting 
+    WHERE yearID = 2013
+    ) m
+ON
+    b.playerID = m.playerID
+WHERE b.teamID = 'MON'

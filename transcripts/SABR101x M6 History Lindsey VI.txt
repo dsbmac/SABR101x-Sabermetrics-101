@@ -1,0 +1,88 @@
+ 
+ANDY ANDRES: So on to George Lindsey's third baseball
+paper, titled "An Investigation of Strategies in Baseball."
+And this is probably Lindsey's most important paper
+that really lays the groundwork for sabermetrics for the next 50 years,
+frankly.
+ 
+A quote from the paper starts this way, "By collecting statistics
+from a large number of baseball games, it
+should be possible to examine the probability
+distributions of the number of runs resulting
+from these various situations.
+The object of all choices is to maximize the probability of winning the game."
+So winning probability-- the probability of winning the game of baseball--
+is part of what Lindsey's getting at in this paper.
+He's also looking at probability distributions
+of the number of runs in the game of baseball,
+based on various situations of the game.
+Now, he goes on to analyze baseball strategies by managers and coaches.
+He analyzes the question of whether or not to steal a base,
+whether or not to use a sacrifice hit-- sacrifice bunt--
+with less than two outs.
+Should you use the intentional walk and in what situations?
+There's a man on first and third, or first, second, and third and the bases
+are loaded.
+Do you play in to prevent the run from scoring,
+or do you play back for the double play?
+So all these different situations are analyzed in this paper,
+but the reason sabermetricians still study
+this paper is because, for the first time,
+Lindsay describes run probability based on the situation of the game,
+the probability of scoring runs, and he also
+describes the probability of winning the game.
+So win probability gets defined in this paper, as does run probability.
+Now the first thing that Lindsay describes is the probability--
+and this is described in his figure one and two from this paper.
+Figure one is the probability that the visiting team
+will win the game if they are so many runs ahead at the end of the inning.
+So what this graph shows you is that if the score is tied,
+or if the visiting team is up by one, two, three four, five, or six runs,
+or is losing by the same amount as described over here,
+this is the winning probability described over the innings.
+This is the winning probability graphed out
+over the nine innings for the visiting team.
+You can see the visiting team is slightly less
+at the end of their half-inning of winning the game,
+because the home team still has a chance to come to bat and score a run.
+Figure two is the probability of winning the game by the home team
+if they are this many runs-- as described in the graph-- the runs here
+they're behind or ahead.
+And you can see how this graph fans out as the game goes on.
+In other words, the win probability shifts from the beginning of the game
+to the end of the game.
+The big conclusion that he makes here is the most valuable runs
+in the whole game of baseball, the most valuable runs
+are those that tie the score, or put the team one run ahead.
+And you can see that.
+Going from winning the game by three runs
+here, to winning the game by four runs, that run
+doesn't add much in win probability in the sixth inning, or the eighth inning,
+or even the second inning.
+That win probability is only this difference.
+The biggest difference is between zero and one when the game is tied
+and you go up by one, or when you're behind by one run
+and then you tie the game.
+Those runs around the tie score, either positively for your team
+or negatively for your team, are the most important runs
+in the game of baseball.
+Because they have the biggest probability of impacting the game,
+impacting the winning of the game.
+You can also see a real effect as the game goes on.
+As the innings move on, and you get closer and closer
+to the end of the game, that one run matters so much more.
+It has a huge impact on win probability.
+And obviously we can go all the way to the ninth inning.
+If the game is tied and you score one run,
+you impact the game by 50% probability.
+You go from a 50% chance of winning the game to 100% chance of winning
+the game if you're the home team and you score a run.
+So that's a very important run here.
+And for those sabermetricians today who like
+to understand the progress of the game and the changing win
+probabilities by situation, this is the introduction to it.
+Lindsay introduces us to this concept of win probability here.
+And these graphs show you again that the most valuable runs
+are those that tie the score, or put the team one run ahead.
+Those are the runs that matter in the game of baseball.
+ 

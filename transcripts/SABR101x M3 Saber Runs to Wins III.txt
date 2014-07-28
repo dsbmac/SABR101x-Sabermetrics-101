@@ -1,0 +1,136 @@
+ 
+ANDY ANDRES: Continuing our exploration of runs and wins, let's talk about one
+of the seminal contributions of Bill James.
+Bill James, among many innovations in sabermetrics,
+started a whole lot of work when he created the Pythagorean Theorem.
+Now, people before him had looked at winning percentage estimators
+and we'll review that, but Bill James comes up with the Pythagorean Theorem.
+And it's based on that geometrical principle about triangles.
+If you remember your triangle, the relationship
+is A squared equals B squared plus C squared, where
+the length of this long side of the triangle is A
+and the other two sides of the triangle are B and C.
+And this is a well-known relationship taught
+to all people who take geometry in grade school.
+But because this equation has a bunch of square terms,
+Bill James called his winning percentage estimator, his look at Runs and Wins,
+he called it his Pythagorean Theorem.
+And he did this in 1980 in his 1980 abstract.
+What he basically said was that the Runs a team scored
+and the runs a team allowed relates to it's winning percentage.
+This is exactly what we've been covering so far in this module.
+And his formula is that the winning percentage
+which, by definition, is your wins over your wins plus losses, the total games
+played.
+Your winning percentage, according to Bill James,
+is approximated by the runs you score squared divided
+by the sum of the runs you score plus the runs you allow,
+both those terms squared.
+So this is his Pythagorean Theorem, and it actually is pretty good.
+So we're going to run through various winning percentage
+estimators, that's what this is.
+The Pythagorean Theorem, Bill James' Pythagorean Theorem,
+this formula here is a winning percentage estimator,
+it's trying to estimate a team's number of wins.
+So if we know runs that we're going to score
+and runs that we're going to allow, we can predict our winning percentage.
+And if we know how many games we play, we
+can actually predict how many wins you're
+going to have that year based on knowing the winning percentage.
+Let's review a snippet of sequel code that I'm
+going to use to do our runs to wins analysis, continue on our Runs
+to Wins analysis, but also estimate winning percentage.
+So let's go through this sequel code, and we'll have the code in text form
+that you can download and play with in the sequel sandbox.
+What we're doing is selecting year IDT by D, runs scored, runs allowed.
+And then we're calculating as before runs per game,
+the run scored divided by the number of games played,
+which is the total of wins plus losses, and then runs allowed per game.
+In the table, we're going to put in wins and losses, just for completeness,
+but then we're also going to calculate the winning percentage.
+Which is the total wins over the total number of games.
+Now, what we have here are six versions of winning percentage estimators.
+The first one was done by Earnshaw Cook.
+We're going to cover Earnshaw Cook in a future historical segment.
+But his formula for estimating winning percentage
+was 0.484 times runs scored divided by runs allowed.
+A very simple formula.
+Another formula by Arnie Soolman was this one here.
+He did a linear regression based on these data here.
+He took these data wins, losses, winning percentage,
+runs and runs allowed, and ran a linear regression
+to come up with this formula.
+0.102 times runs per game, which is the right up here, runs per game,
+minus the runs allowed term, which is 1.103 times runs allowed per game,
+added to 0.505.
+Now, the added to 0.505 term is a little off,
+because we know 0.5 represents the team that
+wins as much as it loses that has a 500 record.
+And also represents the team that scores the same amount of runs
+as they also allow.
+But Arnie found that this equation that he determined
+was a good way to estimate the winning percentage.
+Another professor, Purdue Kross, came up with a conditional winning percentage
+estimator.
+So if your runs are greater than runs allowed, in other words
+you had an offense better than your defense,
+you took the formula runs divided by two times runs allowed.
+This was the one side, if you had a good offense,
+but if you had a poor offense where runs allowed were equal or greater
+than the runs you scored, you would do one minus the runs
+allowed divided by two times R.
+Now, this formula by Kross is another winning percentage estimator.
+And then David Smyth had his own winning percentage estimator
+which was runs minus runs allowed divided by runs plus runs allowed.
+Plus this term here makes more sense because you start here.
+This is the 500 team with the same number of runs allowed
+and runs gets you to 500 in an estimator for winning.
+Finally, this is the Bill James formula which we just showed you before.
+The Bill James formula was the winning percentage
+is approximated by runs squared, this term here,
+this is just a function which raises this term to this term.
+Runs squared divided by the total of runs squared plus runs allowed squared.
+So run squared plus runs allowed squared,
+that's what the power function does.
+And we're calling that in our table Bill James' Pythagorean winning percentage.
+But then later on, other folks found that if you change this exponent
+from squared, you moved it to another term and people like the term 1.83,
+you actually improved upon Bill James' Pythagorean formula.
+And different times and different places Bill James
+himself has used this exponent in his Pythagorean winning percentage
+estimator.
+So we include that one, too.
+So I ran this snippet of sequel code, and I'm
+going to show you different ways to estimate some of the accuracy of each
+of these winning percentage estimators.
+So we took it from the team's database in the layman database.
+I did it two ways.
+The first way I did it was teams from 1901 to 2013.
+I did the complete modern era in my query.
+And then the second time, I did it from 1955 to 2013,
+and that's greater than 1954.
+That's this term here.
+And the reason I chose 1955, this gets to an important question
+which I'll just treat as an aside right here.
+This is the modern era.
+This is a reasonable thing to do when you want to look at all of baseball
+and increase your sample size over many different team seasons.
+I decided this was useful to do.
+But in general, I like starting from 1955
+for a lot of work in the layman database, especially.
+Because this is where we find they record,
+reliably, for all players and teams, some of the actual statistics
+we need to calculate some of the favored formulas that we use in sabermetrics.
+So in 1954, they started recording sacrifice flies,
+and in 1955, they started finally keeping records of intentional walks.
+These two terms are useful in various runs estimators
+that we'll cover in the next module.
+In general, whatever range of years you choose to do the study you want to do,
+you just have to be able to defend your choice of years.
+So I like 1955 forward, because now I can use sacrifice flies
+and intentional walks as needed in the various formulas I might want
+to use in the different studies trying to answer various questions I
+have in sabermetrics and baseball analytics.
+So I like 1955 forward, but remember to defend whatever choice you make,
+and always explain the assumptions you make in your studies.
+That's the end of the slide.

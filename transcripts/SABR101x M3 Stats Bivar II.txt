@@ -1,0 +1,116 @@
+
+ANDY ANDRES: OK.
+The last few things I want to talk about in bivariate analysis
+are the equation of the best fit line and a couple other points
+about what we can assume with these kinds of results
+and how to approach these kind of bivariate analyses
+whenever you're going to do them.
+So here are a couple graphs we saw before.
+What's been added here is the equation of the best fit
+line for each of the graphs.
+These graphs were runs per game and winning percentage.
+The x-axis had runs per game, and this is an offensive measure
+and runs against per game, which is a defensive measure.
+And then the team's winning percentage.
+So what these two equations say when you look at this equation of the line
+is that there's an intercept.
+And it's right around here for this graph, right around here
+for this graph.
+That's 0.2016.
+But this term here that's multiplied by x we can think about here.
+What this is saying is that, for every increase in x, from 4 to 5,
+say, from 4 to 5, for that increase, we're
+going to increase our winning percentage by 0.675.
+So you increase your offense by one run per game
+and you're going to increase your winning percentage by 0.675.
+Now, the coefficient of determination is OK, not great.
+When we calculate the correlation coefficient, turns out it equals 0.534.
+That's r.
+We do it for this coefficient of determination,
+for the runs against graph.
+And r equals 0.561.
+Now, again, this term here represents what the difference in the y-axis
+will be when you change 1 in the x-axis.
+So, again, if I go from 4 to 5 runs against-- in other words, what it means
+is my team is worse than teams with better runs against per game numbers.
+Looking at the equation of the line is going
+to help us better understand the association between these two
+variables.
+This is a graph we've seen before but we've included now
+the coefficient of determination, 0.8962, and the equation of the line.
+Now, the intercept of the y-axis is 0.5.
+That's what this here is.
+This is the y-intercept of 0.5.
+So that's where that goes.
+It's right here.
+There's where that starts.
+But for every change in run differential--
+a 1 run change in run differential is going to lead to a 0.103 improvement
+in winning percentage.
+So I change run differential by 1, my winning percentage goes up 0.1.
+In other words, a 500 team all of a sudden becomes a 600 team.
+And this is represented by the graph here.
+If you look at the line and you plot where 1 is, it's right at 600,
+2 right at 700.
+Which is this relationship.
+You go 1 over on the x-axis and you improve y by 0.1.
+And that's what we're showing here.
+Again, a very high coefficient of determination, and you
+would also have a higher correlation coefficient.
+Now, I wanted to talk about this notion of cause and effect.
+This is a graph looking at run differential and winning percentage.
+We don't really know if run differential causes an improved winning percentage.
+All we know is there is an association.
+There's a relationship between run differential and winning percentage.
+So we cannot assume that run differential causes winning percentage
+or that winning percentage causes run differential.
+Here's a silly example, but done in teaching quite often.
+I'm going to put on the x-axis ice cream consumption, how much ice cream
+people eat.
+
+We're going to plot drowning.
+And remember this is just an example.
+But the amount of drowning occurring in any given city, for example.
+So drowning rates and ice cream consumption.
+When I get these data, it turns out there's
+a positive correlation to these data.
+In other words, ice cream consumption is high and drowning is high.
+There's a positive correlation.
+Ice cream consumption is low and you have a low drowning rate.
+This association between ice cream consumption and drowning
+may lead you to the conclusion that ice cream consumption causes drowning.
+That's kind of ridiculous.
+That's the point of the example about cause and effect.
+There's another variable here causing the problem.
+We call those confounders.
+In other words, something else is going on here.
+And that's actually seasons, the weather.
+
+So if it's hot, people swim and they increase their risk of drowning.
+If it's hot, they also increase their consumption of ice cream.
+So if it's cold, both these things will go down.
+So if it's hot, increased drowning risk because of increased swimming
+and increased ice cream consumption.
+If it's cold, you're going to decrease your ice cream consumption,
+and, because people don't swim as much, they're going to decrease drowning.
+So the weather is really the key confounder here.
+Bottom line-- you cannot assume cause and effect with these scatter plots.
+No cause and effect here.
+
+Cannot do it.
+Now, we can talk about associations.
+Generally-- this is the general case-- if there's
+an association in your scatter plot, a change in x may cause a change in y.
+A change in y may cause a change in x or there
+could be another variable here, a confounding variable, that
+could both x and y to change.
+And that's this case here.
+This is the confounding variable causing both x and y to change,
+but, in general, if we want to understand how things actually work,
+this is where the scientist does an experiment.
+
+Science includes experimentation, where you actually manipulate the situation,
+control for different variables that might
+lead to knowledge acquired about the cause and effect.
+So if you need to get a mechanism of how things work,
+it's beyond the scope of statistics, but experiments can get at the mechanism.

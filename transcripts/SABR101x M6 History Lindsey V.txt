@@ -1,0 +1,126 @@
+ 
+ANDY ANDRES: Finally, there's one other interesting thing
+in Lindsey's second baseball paper, and that relates to home field advantage.
+It might even be the first academic and analytical piece on the home field
+advantage in baseball to really describe it.
+What is reported in Lindsey's paper-- and this is a direct quote--
+is, "A small inhomogeneity probably does exist between the visiting and home
+halves of any inning.
+The home team won 55% of the major league games in 1958
+and 54.7% of the 1,000 games in 1959."
+Well, I wrote a small SQL query to analyze just this question.
+And here it is.
+More data described by Lindsey in this paper
+is that there were 4.5 runs scored at home on average and 4.38 runs
+as the road team in the 1959 sample.
+And this looks different.
+So this might lead to what he's calling this small inhomogeneity between home
+and visiting halves of the inning.
+And he shows these different runs scoring numbers leading to that.
+So I wrote this small SQL snippet, and it's
+got this case statement which is new.
+So select year date.
+This takes the date field in the games table and converts it to a year.
+The year function in MySQL takes the date form and makes it a year.
+So that becomes YR, the YR variable.
+Then we do a sum of a case statement.
+And the case says, when the home score-- from the games data
+table in Retrosheet.
+When the home score is greater than the visitors score, make it a 1.
+This is a little trick to add up the games where the home team wins.
+If the home team doesn't have a greater score than the visitors score,
+make it a 0, which means it wouldn't be counted.
+So we're counting all the times the home team won, and we're calling-- here's
+the case statement.
+It ends here.
+That will be added together and we'll call that "home wins."
+And the count star function we've seen before is total games, because I'm
+grouping by year-- the grouping by the year variable is here.
+So we're counting all the games when we group by the different years
+from this select statement here.
+And we're just going to take the years 1901 on.
+Now this little SQL query yields something, and we'll go the sandbox
+and I'll show you what this yields.
+And you could move this into your favorite spreadsheet program
+and start analyzing these data.
+After I jump to the sandbox, I'll jump back here and talk about some
+of these data that Lindsey reported.
+So here we are back in the SQL sandbox, and we
+are on the Retrosheet database-- the games log database from Retrosheet--
+in our SQL sandbox.
+And what I've done is upload this query that we had that I described earlier.
+And here's the query with the new case statement that you haven't seen before.
+And this is a little trick to count home wins, the number of wins
+by the home team.
+And we're also going to get the number of total games played in a given year.
+We're going to group by year so that we're just
+going to look at different years.
+SQL will group those together.
+And we'll do it from 1901 on.
+So let's run this query.
+Let's run Check here.
+Going, going.
+Processing.
+ 
+And here's our result.
+Starting in 1901, the home team wins 613 games,
+and there were 11, 10 total games played that year.
+We've got 30 rows showing of 113 rows.
+Since 1901 into 2013, there's been 113 years of data collected.
+And what we're showing here are the home wins, with our little case statement
+trick, and the total games.
+I can take these data just as they are and download and analyze them
+in a spreadsheet.
+So I encourage you to do that so you can see it yourself.
+I just wanted to show this in the SQL sandbox
+that we can do some home field advantage scripting in SQL.
+So just some descriptive statistics.
+Since 1901, the average home field advantage-- and I
+got this from my own spreadsheet analysis of the data for my SQL query.
+The average home field advantage is 53.91%.
+And the standard deviation of that data set is 1.46%.
+So that's the standard deviation and the home field advantage since 1901.
+Looks like 53.9.
+Call it 54%.
+I also did it since 1955, just because I sort of
+like to start with that year to see what it's like.
+Again, the home field advantage is 53.87.
+Not much different.
+Virtually the same.
+And the standard deviation of this is a little bit better.
+It's 1.20%.
+So since 1955, the home field advantages have been more tightly coalescing
+around 54%, around 54%.
+And this isn't near what Lindsey reports early
+on when he does his analysis of '58 and '59.
+Now, interestingly, in 1958, when you do the whole season
+and you analyze the whole season of '58, the whole season,
+there's 676 wins by the home team, and there's 1,235 games played.
+Now, Lindsay only looked at 782 or so.
+So he didn't look at all professional games.
+When you do this analysis, the home field advantage in 1958 is 54.74%.
+That's the home field advantage in 1958.
+So it's a little different than what he reports.
+Not too far off.
+1959-- when you look at the whole year with our little SQL query-- trick
+here to get it at home field advantage, you
+get 667 home team wins over 1,238 total games.
+That home field advantage is 53.88%.
+And that's very different than what Lindsey reports in his data sample
+from 1959 of 1,000 games.
+Again, you can see they're very close to this 54%.
+So baseball has a home field advantage of 54%.
+That's a number sabermetricians should keep in their back pocket.
+They should understand this.
+The reasons why have been explored by other analysts.
+Where the home field advantage comes from
+is a fabulous book called Scorecasting, which
+talks about this home field advantage in baseball and other sports.
+Lots of different speculation, lots of different potential reasons
+why, but it's very clear home field advantage is 54%.
+But again, let's give Lindsey credit for being
+one of the pioneers of trying to understand better home field
+advantages, and he reports it in his second baseball paper
+that we've been discussing.
+The progress of the score during a baseball game.
+ 

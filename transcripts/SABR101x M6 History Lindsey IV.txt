@@ -1,0 +1,122 @@
+ 
+ANDY ANDRES: Now, the second question was about independence,
+run scoring by inning independence.
+Looking at independence, let's define it a little bit better in baseball.
+And what independence implies, kind of like the independence of a coin flip
+or the independence of rolling dice, it implies
+that the distribution of runs scoring across the game
+is unaffected by the other scoring going on.
+So there's ways to test this.
+There's this idea of the lucky seventh inning.
+After the seventh inning stretch, the home crowd
+implores the home team to score runs in the seventh inning.
+There's the idea that the ninth inning is an independent and a run scoring
+chance like any other, because strategy changes,
+and the extra innings for the same reason.
+It might be a little different.
+So what you're implying here is that it's not an even coin,
+or it's not an even set of dice.
+They're loaded somehow for certain situations.
+Other things to check are total runs scored.
+Does total run scoring look like what you'd
+expect if you always just flipped the coin every half inning
+and got the probability of scoring a run to be what you'd expect on average?
+And the other question here is leads.
+Do leads affect things?
+Are there the right number of lead changes?
+Are the right number of leads accumulating?
+So that's what Lindsey does.
+He checks out different scenarios in the game
+to see if this runs scoring in a half inning is a lot like a coin flip.
+It just happens with normal independence.
+So how does he check this?
+Well, here's a graph showing-- the solid line here
+is if these runs are independent in every half inning,
+the distributions of runs scored over the whole game
+by one team follows the solid line here, follows the solid line here.
+In other words, there's a certain probability
+that you would score 0 runs based on the string
+of coin flips throughout the game.
+There's a certain probability that you would score 3 runs based
+on the string of coin flips throughout the game.
+All the way up through larger run scoring chances, over 10 runs, 11 runs,
+12 runs, that's all here.
+This section of the graph is blown up after 10 innings.
+This smaller lower section of the curve is blown up here.
+So is it like a coin flip that way, the probability of scoring
+a run in any half inning leading to the total number of runs scored?
+Well, there's a couple differences here.
+For some reason, the 5 runs scoring here is low in the 1958 sample.
+There's another sample here at 11 which looks
+a little high for the 1959 sample.
+But you look at the other years, and it looks like it's more normal.
+So that probably gets balanced out with more power in combining these years.
+It's a little strange why Lindsey doesn't combine years
+in some of these analyses.
+But he must not have been able to based on how his data was structured.
+But the interesting thing here, the one result which seems to be true
+is that after 10 runs, from 11 runs on, there
+seems to be more runs scored than normal.
+This little trend here is statistically significant.
+Let me color that trend here so we can see it.
+This little trend here is statistically significant.
+So right here this area is more than normal.
+This is more than just the coin flip would predict.
+So somehow large run scoring doesn't follow
+a rule of independence, doesn't follow the rule of independence, this area on,
+which is interesting.
+So the number of extra inning games follows the model of independence
+just fine.
+In other words, running the coin flip you get the number of extra inning
+games just like you'd expect.
+Lead changes and overcoming a lead show independence also.
+There's no observable tendency for the underdog
+to overcome leads more than you'd expect.
+They overcome leads like you would expect
+if you're running a coin flip model of runs scoring.
+Now, the one thing here is runs over 10.
+Runs over 10 seem to happen by a team a lot more than normal.
+Runs over 10 happen a lot more than normal.
+And it's speculated by Lindsey that this is
+because managers, once they get a blow out, will keep that pitcher in.
+And maybe it causes more of a blowout, because they
+keep the weak pitcher in who's not pitching so well.
+The batting team, the offense just scores lots and lots of runs.
+And the manager says, I'm not bringing in a new pitcher.
+So this was Lindsey's speculation about why
+there might be more significant large runs scoring games
+than he predicted by this model.
+Here's another look at something similar.
+This is the final winning margins.
+This is looking at the final winning margins.
+Again, the black bars are from 1958, the white bars are from 1959.
+The winning margins based on his coin flip model of independence
+of run scoring by inning shows the line here.
+You'd expect 30% of games being a one run game.
+A two run game would be about 18%, et cetera, all the way down the line.
+Now, the one thing that shows up here again
+is this is higher than you'd expect.
+The winning margins of greater than 10 runs should be very low probability,
+should be right around here, sort of following
+the trend of what you'd expect.
+But this comes above normal.
+In other words, again, winning margins greater than 10 runs
+shows up where you really wouldn't expect it to.
+So there is significant excess leads observed in the game
+than you'd expect by just modeling independently.
+So this is where again, over here you talk about Lindsey's speculation.
+This could be due to leaving a poor pitcher in when the game is already
+lost.
+I'll make a note here that he reduces his statistical power
+by not combining years.
+Maybe there was a way to combine the data.
+Maybe there's a way to grab his data.
+Maybe there's a way to repeat the studies to see this again.
+Actually, repeating the study would probably be the best thing.
+With better data, we have much more event information in the game.
+And we could probably reproduce this to see if this is the case.
+So again, two things show up that are not independent,
+significant excess leads and runs scoring in innings
+that are greater than 10 runs.
+So note that there might be something here about managers leaving pitchers
+pitching poorly in games when they are completely lost.

@@ -1,0 +1,145 @@
+ 
+ANDY ANDRES: So finally, let's talk about George Lindsey,
+our final Sabermetrician that we're covering in Sabermetrics 101.
+And here's a photo of George Lindsey as he's
+enlisting in the royal Canadian military right
+after graduating from the University of Toronto.
+He was born in 1920.
+And his degree at the University of Toronto was in math and physics.
+And he was so talented and smart that he moved over to Britain
+to work on the radar systems that Britain was implementing.
+This was a secret system they were working on
+to combat the Germans during the late stages of World War II.
+After that, he got his Ph.D. in Cambridge in the Cavendish laboratory.
+This is where he met his wife.
+His wife also got her Ph.D. in the Cavendish lab.
+And for those of you who know biology have probably heard of this before,
+this is the lab that Watson and Crick roamed in the early 1950s,
+as they were discovering the structure of DNA.
+And this is well described in the book by James Watson called The Double
+Helix, a great history of the lab, and what they did and discovered there.
+But interestingly, George Lindsey and his wife were in the same laboratory.
+He got his Ph.D. in 1950, his wife got hers in 1951.
+And after 1950, he moved back to Canada to work
+with the same man he worked with during the war effort.
+And in his capacity, in the Canadian national defense system,
+he spent decades working as a nuclear scientist,
+and working for a nuclear disarmament within the Canadian National Defense
+System.
+And as a result of this, his efforts in the lab and working for Canada,
+he became an Officer of the Order of Canada.
+That's what the OC is after his name.
+So he earned that in 1989.
+And there's this great quote from his obituary
+that epitomizes again what we're trying to do here in Sabermetrics 101.
+We're trying to explain this approach to the world
+that George Lindsey did throughout his career.
+So from his obituary in 2011, no matter the problem
+he always proceeded in the same way-- collect the data,
+analyze the statistics, reach a solution and implement it.
+It's because he had an empirical approach to life both at work and home.
+So again, this is something we've tried to emphasize
+in this course for our students and our learners.
+This idea that we collect data, we get data, and we start looking at.
+We start trying to understand it, we start analyzing it,
+we start using the statistics that we know of to better understand it.
+And that's what George Lindsey did with his work in nuclear physics,
+with his work in baseball.
+So we're going to cover his work in baseball,
+but he was quite an interesting man, a renaissance
+man who did many different things.
+But took his passion for baseball and wrote three separate papers
+that are very important actually, in the history of Sabermetrics.
+This is a very prominent Sabermetrician, and he published all of his work
+over 50 years ago.
+ 
+So the first baseball paper was published in 1959
+and it was titled Statistical Data useful
+for the operation of a baseball team.
+And his basic thesis we've heard before-- this
+comes direct from work from F.C. Lane when
+he published in 1916, a criticism of batting average.
+ 
+And quotes from Lindsey's paper were, it's
+the most significant statistic in general use in baseball.
+And the criticism obviously is no distinction
+is made between a very useful hit and a lucky hit
+not ultimately aiding the team.
+A criticism of batting average is where he starts out this paper.
+ 
+But the main question in the paper is, can batting average
+be used to predict future performance?
+In other words, is batting average some kind of skill
+that's consistent for players over their careers.
+And can we use someone's batting average to say, well,
+this player will hit this batting average again.
+He did some analysis to try to understand
+the consistency of batting average over time.
+This is very similar to the analyses we talked about in the statistics
+section of Module 6 when we looked at small sample
+size and the work of Russell Carlton.
+His technique was different, but Lindsey does
+similar things trying to answer a similar question,
+can batting average be used to predict future performance.
+So the main question again of the paper is, can batting average
+be used to predict future performance?
+And as Lindsay started thinking about this,
+he starts identifying many situations that impact batting average
+in the analytics of batting average.
+Park effects, league effects, day/night effects,
+clutch hitting effects, different skills of the pitchers
+that may impact batting average as well.
+And because of this, he just thinks there's too many situations
+to test all the different impacts on batting average.
+That if you were to do this correctly, you
+need to look at it each of these situations
+independently to try to find the effects during these situations.
+He does do one analysis, though.
+And he tested this easy situational difference.
+He looked at over 400 games, analyzing over 6,000
+at bats of right handed batter versus right handed pitcher or left handed
+versus left handed.
+That batting average was 231.
+And when the right handed batter faced the lefty pitcher or vice versa,
+the batting average was 263.
+And the P value of this test here was less than 0.001,
+which means there was a 1 in 1,000 probability
+that the result he got of this difference, the difference here
+between 263 and 231, the probability that that difference was just by chance
+was 1 in 1,000.
+The p value here, and whenever you see it,
+again, the p value is defined as the probability of a false positive--
+a positive here meaning a positive result where
+you've rejected your null hypothesis that you've set up in your test.
+So the null hypothesis is that the right handed pitcher, right handed batter
+is the same as the right handed batter verses the left handed pitcher.
+That those two situations are the same.
+If that's your null hypothesis, what you're showing
+is that they're different.
+In other words, there is a difference between the two.
+And the probability that you see this positive difference,
+but it's actually untrue, or false, is 1 in 1,000.
+So that's what the P less than 0.001 means, and what the P value means.
+The P value being so small, in other words, means it's highly significant,
+it's statistically significant.
+So you'll see this again as you take future stats classes
+as you try to cover these errors you might get in your experimental design.
+So remember the main question of the paper was,
+can batting average be used to predict future performance?
+And Lindsay concludes in this paper that it cannot be.
+There's too much sampling error in batting average.
+There's too much noise in the measure of batting average
+to have batting average be a statistically significant predictor
+for the next year, the next batting average.
+Batting average as some measure of a true talent is not the way to go.
+It's a wrong measure of some true talent.
+And this was one of his ideas at the start-- batting average
+wasn't a great measure of hitting performance.
+It misses some key factors about what hitting performance actually is.
+So it makes sense in a way that you can't
+use it to get at the measure of true talent
+that's going to predict the true talent in the future.
+In other words, what a player actually can do as a hitter.
+We'll stop here before we analyze further some other data covered
+in the first paper by Lindsey from 1959.
+ 

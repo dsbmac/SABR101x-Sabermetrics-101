@@ -1,0 +1,120 @@
+ANDY ANDRES: In this week's Sabermetrics track,
+we're going to cover a very important part of baseball analytics.
+Baseball analysts need to understand the different eras of the game.
+Now this is not E-R-A, as in earned run average, this is the time frame eras.
+And there have been different eras in the game of baseball.
+So let's look at these data and try to think about the different time
+frames, the different eras of baseball.
+Let's explain the graph.
+On the x-axis are all the different years of data
+we've collected, starting in 1871 and going through 2010.
+On the y-axis are runs per game.
+These are the average runs per game from all the teams playing
+professional baseball during that year.
+And this gets us a sense of the run scoring environment.
+Whether it's a time when runs are plentiful
+and teams score a lot of runs, or maybe a time where they don't score
+as many runs.
+So let's look at these data, see if we see patterns.
+See if we see anything interesting and, like analysts,
+let's just let our natural curiosity take over and ask some questions.
+First thing we notice is that there's probably
+a difference here in a line right around the turn of the century.
+There's a relative stability here, certainly compared
+to the 19th century run scoring environment.
+Now there's lots of changes post 1901, but generally, they're
+more stable than the data we see here.
+So 1871 is where we start collecting data on professional baseball
+and that turns out to be the highest run scoring environment.
+So averaging the runs per game for all the teams playing in 1871
+gives us over 10 runs per game on average for those teams.
+Now there could be sample size issues driving the stability here.
+There were more teams playing baseball during this era.
+Or it could be something fundamental to the game.
+And that's what we're going to try to analyze, better understand,
+some fundamental changes that have occurred over time.
+Now, let's look at this.
+I've blocked off this era and it's called the 19th Century Era.
+ 
+This era is a very different game than we know today.
+People seeing this game would wonder what kind of funny rules
+we're going on.
+Because this period, this 19th Century Era, was a time of many, many changes
+to the rules.
+Let's run through a few just so you get a sense of the history of baseball
+and how it's different in the 19th Century Era.
+So for example, in 1877, they made a major change in the rule.
+They eliminated the fair foul hit.
+The fair foul hit was where-- if this is a baseball diamond, if the batter would
+hit the ball and the first bounce would be in fair territory,
+but then maybe the ball would spin off and bounce into foul territory
+even before first base, that would be considered a hit, or a fair ball.
+So this is very different than today's game.
+As baseball fans know, fair balls now have to travel beyond first base
+if they're going to be on the ground.
+And if they're in the air beyond first base,
+they have to touch first in fair territory.
+So these are the new rules, the modern rules,
+but in 1877, you were able to somehow manipulate
+the ball so it would hit in fair territory in front
+of either first or third base on the infield.
+And if it could skip out of bounds, you could easily maybe make it to first,
+maybe make it to second.
+Another change starting in 1880 was the reduction
+of the number of balls-- the number of called balls by the umpire
+to reach base on balls, a walk.
+The number of called balls to reach a walk reduced in 1880.
+It used to be nine called balls would get you a base on balls.
+So in 1880, it went from nine to eight.
+And it continued dropping down until the modern day four called balls
+reaching a base on balls.
+That went all the way until 1889.
+In 1889, it was settled on four.
+Four called balls reached first base by the batter, four called balls reached
+a walk.
+Let's review other major changes that occurred in professional baseball
+during the 19th Century Era.
+In 1883, they allowed pitchers to use shoulder high deliveries.
+So the pitcher delivery changed by allowing shoulder high deliveries.
+Before that, you had to deliver the ball below your waist.
+In 1885, bats could be flat on one side.
+They created the rule allowing bats to be flat, much more like a cricket bat.
+ 
+But they went and changed that back to be just rounded bats in 1893.
+They went back on that in 1893.
+This is a big one.
+ 
+This is a very big change.
+In 1887-- up until 1886, the batter could call high or low.
+The batter could tell the pitcher, I want a high strike or a low strike.
+Batter called the pitching zone.
+ 
+After that, they changed the strike zone.
+In 1887, they changed the strike zone to be
+much more like what we know today-- sort of shoulders to knees.
+It actually changed over the years, but it was much more recognizable from 1887
+on.
+In 1893, they moved to a pitching rubber, which is modern today.
+The pitchers got to start on the pitching rubber,
+but back then, it was a pitcher's box and it was 50 feet away from the plate.
+In 1893, they established that the pitching rubber
+had to be 60 feet 6 inches away from home plate, just like it is today.
+It just was implemented in 1893 that you weren't
+charged with an at bat when you performed a sacrifice.
+ 
+Finally, in 1898, the balk rule was created
+and they started recording stolen bases.
+So in 1898, they created the balk rule.
+The balk rule was implemented because this way pitchers weren't
+able to as easily deceive the base runners.
+ 
+So that was some of the major changes that occur during the 19th Century Era.
+Bottom line, the 19th Century Era is when
+we see the evolution of the rules of the game
+and it becomes much more similar to the game as we know it.
+Because of the frequent and often crazy rule changes
+that occurred during the 19th century, we consider the Modern Era anything
+after that.
+1901 on is the Modern Era.
+It's called the Modern Era of baseball.
+So before that, it's the Protoball or the 19th Century Era.

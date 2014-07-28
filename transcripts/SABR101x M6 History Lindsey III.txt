@@ -1,0 +1,147 @@
+ 
+ANDY ANDRES: Let's start talking now about Lindsey's second baseball paper,
+titled The Progress of the Score During a Baseball Game, published in 1961.
+And the first question of the paper deals
+with the homogeneity of run scoring for any half inning.
+Is the probability of scoring in any half inning the same?
+In other words, are there any differences across the various innings?
+The second question related to this is, does the history of scoring
+effect any subsequent innings?
+Is there any hysteresis effect?
+Is there any carry over effect?
+Or can you consider every half inning as an independent event?
+So the alternative theories, the alternative ideas,
+to these questions of homogeneity and independence,
+are that pitchers may get tired.
+And pitchers may lose their dominance.
+You may change your tactics as a manager as the game goes on.
+And by changing tactics, you change the homogeneity of run scoring in innings.
+And the independence of run scoring throughout the game.
+In other words, maybe the ninth inning tactics
+change, thereby changing the amount of runs scored in that inning.
+Or creating a discontinuity in the independence of run scoring by inning.
+This was the kind of question that Lindsey was after.
+And again, by very close observation, of run scoring in various half innings,
+he collected data like this.
+This is from his paper in '61.
+And this is looking at 782 games from 1958.
+And what they're showing here is the number of runs scored in the inning.
+That's across the board here.
+OK.
+Number of runs scored is either zero, one, two, three, four,
+five, or more than five.
+And this is every inning.
+One, two, three, four, five, six, seven, eight and nine.
+And then extra innings.
+And then he combines all innings and all extra innings to get averages.
+Just look at the first inning.
+71 percent of the time, 0.079 is how often
+zero runs are scored in the first inning.
+One run is scored about 15 percent of the time.
+Nine percent of the time you get two runs, and all the way down this row.
+For that situation of run scoring in the first inning,
+he had 1,564 observations.
+And he had 1,564 observations until he gets to the sixth inning.
+And this is because of incomplete games.
+Because of games being called due to weather.
+And once you get to extra innings the number drops off.
+And this number drops here, the ninth inning,
+because he doesn't include all partial innings.
+He only includes complete half innings that he sees.
+This column here is the mean.
+These are the averages.
+The first inning, on average, you're going to score 0.53 runs.
+Second inning, 0.38.
+Third inning, 0.53.
+All the way down the line.
+This is the standard deviation column.
+And this is the standard error column.
+ 
+These are the data he collects from 1958.
+In 1959, very similar set up.
+Every inning he starts looking at the run scoring probabilities.
+There's zero runs scored 70 percent of the time.
+16 percent of the time it's one run.
+All the way down.
+And the mean for the first inning is 0.54 runs scored.
+Again, standard deviation.
+Standard error.
+And he has 2000 observations based on 1,000 games.
+He has two half innings for every 1,000 games in 1959.
+He's got two data sets.
+And he collects them differently here.
+Ninth inning data set he has complete and incomplete innings.
+Extra innings, complete and incomplete innings.
+So he separates this out and counts them differently.
+From before, he only counted the complete innings.
+In the previous data set, all he had was the complete innings.
+If you go back to 1958 data set.
+These are the data he collects.
+And right away, you can see that it's not equal.
+OK.
+Now, a lot of them look the same in the ballpark.
+But the second inning looks like something
+is much lower relative to the rest of the run scoring.
+If you look at the 1958 data, we'll go back, same idea.
+The second inning has a little bit lower run scoring average
+than the first inning or the third inning.
+The other data looks relatively similar.
+The first question he's trying to answer,
+again, is the idea of inning homogeneity.
+Is the probability of scoring a run in any half inning the same?
+Well it doesn't look the same.
+It looks like there is a difference.
+He shows this graph here.
+The previous tables are not graphed above this line.
+First inning, the black is 1958.
+The white bar is 1959.
+And what's represented here is the mean plus or minus the standard error.
+And you can see the dotted line here is the overall mean.
+Overall mean of run scoring per inning.
+And you can see how first inning's a little high.
+Second inning's a little lower than the mean.
+Third inning is a little higher than the mean.
+And then the rest of the data looks like it's closer to the mean.
+The tenth inning has a big spread.
+Extra innings have a big spread.
+The standard errors are much larger.
+There's lower counts.
+That sort of makes sense.
+That's the data that's starting to be scored.
+That's the data collected by Lindsey.
+Now the bottom half of this graph just looks at probability of bigger innings.
+The probability of scoring more than three runs in an inning.
+So this is a bigger inning than most.
+The third inning looks like the big inning.
+That's the probability of scoring much more runs.
+It looks like that's much higher.
+0.065 or so.
+One out of 16 innings or so, six percent of the time,
+is when you would score a big inning in the third inning.
+ 
+This is the big inning trend over time.
+And the probabilities look different again
+in the second inning and the third inning.
+They look different here.
+And this is probably due to line up construction.
+And this is what Lindsey talks about.
+He looks at the data.
+And he does statistical analysis on the data
+to show that the first, the second, and the third inning
+are different than the mean.
+Are different than the overall average.
+What he concludes is this, run scoring is not homogeneous.
+It is not the same across all innings.
+The first three innings are different from the mean.
+First and third are higher.
+The second is lower.
+So there is no run scoring homogeneity by inning.
+And what he says is this, this is a quote from the paper.
+"It seems logical to attribute the in homogeneity of the first three innings
+to the structure of the batting order."
+In other words, the managers have set up the batting order to score runs
+at the top of the order.
+And maybe not worry about it as much at the bottom of the order
+with weaker hitters.
+So the structure of the batting order is a direct effect here.
+ 

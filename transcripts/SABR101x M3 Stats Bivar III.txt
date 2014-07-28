@@ -1,0 +1,52 @@
+ 
+ANDY ANDRES: The first graph I'll draw is your standard positive correlation
+graph with just different observations sort of randomly put around here.
+ 
+The second graph I'm going to draw is not so random anymore,
+but on both axes of the same scale.
+I'm going to start here and make a curve.
+ 
+So here's my second scatter plot.
+My third scatter plot is going to be points like this, not random anymore,
+but another point up here.
+My fourth scatter plot is just going to be a bunch of numbers
+here in the same area and one way out here.
+My lines of best fit are all going to fit like this.
+They're all going to fit the same.
+ 
+So lines of best fit in each of these different scatter
+plots with different observations looks the same.
+Let me show you the data sets that actually lead to this case.
+Set A, the mean for all the x variables is 9.
+The standard deviation is 3.32.
+Notice that each of the different sets has exactly the same mean and standard
+deviation for their data set here.
+You look again in the y variables, exactly the same across the board.
+We did bi-variant analyses for each of these sets.
+We calculated the mean and standard deviation.
+We did scatter plots.
+We found the line of best fit.
+Now, maybe it's an exercise for the student,
+but it turns out the correlation, the r and the line of best fit,
+the equation of the line of best fit, from simple linear regression,
+both these terms, r and the line of best fit, are the same for all data sets,
+as well.
+This whole data set of all four different cases has a special name.
+It's called Anscombe's Quartet-- Anscombe's Quartet.
+Anscombe's Quartet is trying to demonstrate one big principle.
+All these four data sets, doing a scatter plot on them, starting
+bi-variant analysis on all four data sets, leads
+to the same characteristics of the x's and the y's on all the different sets
+and the same coefficient of correlation, the r, and the same line of best fit.
+But as you see, when you look at the scatter plot,
+they look very different, although they come out the same
+in the descriptive statistics set of doing bi-variant analysis.
+ 
+The point here is, forever and ever, always look at your scatter plot.
+So just like Yogi said, you can observe a lot by watching.
+Make sure you observe your scatter plots,
+because they're going to tell you something.
+Observe them.
+Look at them.
+See what kind of relationships are there.
+Make sure you observe your scatter plots.

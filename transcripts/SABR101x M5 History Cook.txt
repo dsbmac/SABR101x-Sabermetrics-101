@@ -1,0 +1,139 @@
+ 
+ANDY ANDRES: In this module's History of Sabermetrics track,
+we're going to be looking at Earnshaw Cook.
+We've seen a little of Earnshaw Cook earlier in the course
+when we looked at winning percentage estimators.
+One of the winning percentage estimators we evaluated
+was Cook's that he published in his book, Percentage Baseball.
+Earnshaw Cook was born in Maryland at the turn of the century
+and graduated from Princeton in 1921 where he played baseball.
+And his lifelong fascination with baseball
+never abated as he did his work following his graduation from college
+as a metallurgist and a mechanical engineer.
+He worked for the American Brake Shoe Company in New Jersey for many years
+until he retired in 1945.
+As part of his work, he actually contributed to the Manhattan project
+during the war.
+When he retired in 1945, he taught engineering part time at Johns Hopkins.
+He bought an estate in the countryside of Maryland
+and lived a gentlemanly life where he consulted
+with various faculty on interesting ideas he had.
+One idea he had was applying his math skills to baseball analytics
+to better understand the game of baseball.
+One of his big theses was that Ty Cobb was a better baseball
+player than Babe Ruth.
+And he spent many hours arguing this amongst friends and colleagues.
+But the fact is, being a trained scientist,
+he didn't take conventional baseball wisdom
+to be true, the idea that Babe Ruth, the power hitter,
+was automatically the more valuable batter than Ty Cobb.
+So he kept arguing the point and as he learned more about the game,
+he decided to apply math skills and probability to the game.
+An example of Cook's ability to take on conventional wisdom,
+apply the scientific method, but also a window into his arrogance and hyperbole
+is the following quote: "Baseball also furnishes
+a classic example of the utter contempt of its unsophisticated protagonists
+for the scientific method."
+His point was that it hadn't been really that well analyzed yet.
+Being an analyst himself and a scientist himself,
+he decided to apply more sabermetric and scientific thinking
+to questions he had about the game.
+Let's talk some more about Cook's motivation
+to publish Percentage Baseball.
+There was some indication that he may have approached different teams
+in baseball, major league teams, about some of his ideas
+and some of his analysis.
+But it seems like he wasn't taken too seriously.
+There's an indication he talked to the Orioles and got some data from them.
+But he comes out with this quote in the intro to his book:
+"The general complacency of professional baseball people,
+even those of undoubted intelligence, toward mathematical examination
+of what they regard properly and strictly as their own dish of tea
+is not too astonishing."
+So in the end, he thinks they're not applying the scientific method, not
+applying mathematical principles to their own detriment.
+But he regards that as par for the course,
+I think, based on baseball conventional wisdom and how it operates.
+I wanted to leave you, in the introduction to Earnshaw Cook,
+with the quote that really pins it for me from Alan Schwartz.
+He says, "The first, and perhaps most befuddling,
+full-length book to be written of what we now call sabermetrics."
+And I think this captures it.
+It really is a significant event in sabermetrics history.
+Because it was the first book.
+It really is a full-length treatment to a scientific approach
+to various questions in the game.
+But it's a befuddling work.
+It's a strange work.
+It's certainly not ready for publication in scientific journals.
+It's filled with a lot of unclear and not concise language
+describing his probability analysis, his probability theory.
+And he doesn't spend enough time on his methods describing what he actually did
+and how he did it.
+It doesn't play towards the average fan.
+It doesn't play towards the baseball scholar, necessarily.
+But he applies probabilistic theory and principles to the game of baseball
+and really sets the tone for future sabermetricians.
+As such, it really is an important work.
+Let's continue on talking more about his findings and his main conclusions.
+His big conclusion that still is relevant today
+is that the sacrifice bunt is a bad idea except for when a pitcher is batting
+and they're a poor hitting pitcher.
+Or the times when you're playing for just one run late in the game,
+potentially behind by one run.
+Those are times when the probabilities, the percentage play,
+is actually to sacrifice bunt.
+But otherwise, it's not a good play at all.
+You'll see in his run scoring formula, his run
+estimator formula, where he puts bunts and his disdain for the sacrifice bunt
+is clear.
+His other big conclusion is that you send batters
+to the plate in the exact order of their batting ability.
+In other words, your best batter should bat lead off.
+And it should go down from there.
+And the basic principle is that you will increase your plate appearances
+for your best batters over the course of a long season.
+You would lead to more run scoring opportunities for your teams.
+Now different ways he analyzed this, he put big claims
+on the amount of runs a team would score if they did this.
+In the same vein, about this idea of trying
+to get your best batters to bat more often,
+he said don't use the platoon system.
+Just use the eight best batters you have.
+Don't worry about the advantages of platoon splits.
+Now both these ideas, in further analysis, have proven not to be true.
+Batters demonstrate platoon splits and it's probably advantageous to teams
+to use those players wisely.
+Cook, himself, in a later book in 1972, he
+reanalyzed this idea of the best batter should lead off
+and you should have your batters in your line up order
+descending from batting ability.
+He ran a simulation in 1972.
+Thorne and Palmer also ran a simulation after this.
+The claim of, the runs generated from this line up that Cook makes,
+turned out to be not true at all.
+These two claims here of the batting order differences, just not true.
+ 
+Another claim made in Percentage Baseball
+is that you start the game with a relief pitcher.
+And the reason for that is then the first time
+that the pitcher comes to the plate in the second or third inning,
+you'll just hit a pinch hitter for them.
+So you'll get that better batter instead of a weaker
+pitcher coming to the plate.
+But you wouldn't lose your starting pitcher
+because you've already had your relief pitcher pitch for one or two innings.
+Came up before the pitching slot comes up to bat.
+So use of pinch hitters with this method of starting your game with the relief
+pitcher and then replacing them the first time that relief pitcher comes
+to the plate was one of Cook's suggestions.
+And he estimated, again, how many runs would be scored over the season
+if you did this.
+And finally for this video segment, I wanted
+to mention that Earnshaw Cook also created his own scoring index.
+What he defined this as is, the average probability
+that the batter creates a run for his team.
+And as we go through it in the next video segment,
+you'll see it's similarities to other measures of batting performance
+that we know.
+ 

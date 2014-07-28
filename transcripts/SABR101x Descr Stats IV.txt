@@ -1,0 +1,102 @@
+ 
+ANDY ANDRES: So let's continue on our look
+at other measures of spread or variability
+in our descriptive statistics section.
+We use this column right here to help us calculate average absolute deviation.
+We took this term, divided it by N, and we
+got a sense of the variability of all elements of the data set
+from a measure of central tendency, the mean.
+And that's what this column represents.
+There's another way to get variability around a central tendency--
+the spread of the data around a central tendency.
+And that's through the variance and standard deviation.
+And for now, I'm just going to share the formula with you.
+But it's sort of similar to the idea of the average absolute deviation.
+But instead of taking the difference from the mean,
+we're taking the difference when the mean and squaring that term.
+ 
+And this also creates positive values.
+When you square the value, you're always going
+to create positive values throughout the data set.
+So in the same way the absolute value created positive values
+that we can add together, we also do that for the square term.
+Each of the numbers in this column represent a measurement
+of the difference of the original data point to a centralized number--
+the mean here, in this case.
+So again, 54 was the term farthest away from the mean,
+and it has the highest value in this column.
+The square difference from the mean is the highest.
+And the closest, again, is 5.54.
+It happens twice.
+So we know here that the 23 data point is
+the closest to the mean, represented by how low these two values are.
+So this is a key number here.
+And I'll show you why in the formula, when
+we calculate both the variance and the standard deviation.
+So let's go to the formula now.
+So here's the formula to calculate variance.
+Variance is represented by S squared.
+And in the formula, we've got the N term.
+Now N is the familiar number of data points in the data set.
+In our case, N is 17 in our sample data set.
+So N occurs here and here in the formula.
+This sigma term essentially says, go through all
+of the elements in the data set, from 1 to 17.
+And here is 17.
+So using the term I as the subscript, it's saying, take the data point.
+And the 17 data points are represented right here in the Home Run column.
+These are the 17 data points that, in turn, we're
+going to use in this sigma bracket.
+This sigma term here says, go from 1 to 17,
+taking the difference between the data point--
+the data point here-- and the mean.
+So take the data point X, subtract the mean,
+which is here, data point X. Subtract the mean and square the term.
+So it turns out this column here is the sum term here, the sigma term here.
+And the number, 3577.88.
+It's the sum of the data point difference from the mean.
+Square that term.
+Add it all together.
+That's 3577.88.
+That number divided by N minus 1, the number of samples in the data
+set-- that divided by 16 equals 223.62.
+That's our variance in our sample data set.
+We calculated it pretty easily inside a spreadsheet.
+To get this number, we divide by N minus 1.
+Now.
+The standard deviation is the square root of the variance.
+The standard deviation is the square root of the variance.
+So when I take the square root of this number, it turns out to be 14.95.
+So we've run you through an example of how
+to calculate the variance and the standard deviation of a certain data
+set.
+Coefficient of variation, CV, is a useful way
+to compare these measures of spread or variability.
+If we had a data set with much larger numbers than this--
+maybe we're measuring something with much higher quantities--
+the standard deviation would be much higher.
+So let's clean that slide out and start talking more
+about coefficient of variation, CV.
+CV, coefficient of variation.
+The coefficient of variation is defined as S, the standard deviation,
+divided by the mean.
+And here's our symbol for mean.
+So the standard deviation divided by the mean is the coefficient of variation.
+ 
+And what's really useful about the coefficient of variation
+is it can compare data sets.
+ 
+So data sets can now be compared, and you
+can get a sense of the measures of spread or variability.
+Because coefficient of variation is a dimensionless variable.
+It's not like it's measuring homeruns or how far
+a baseball can be thrown in feet.
+There's no units to the coefficient of variation.
+And it does give you some sense of the measure
+of spread of variability in a data set.
+You don't have to worry about the means of the data set.
+You can have widely different means and widely different units
+and widely different just straight numbers--
+the actual quality of the numbers.
+So coefficient of variation turns out to be very useful
+when comparing data sets.

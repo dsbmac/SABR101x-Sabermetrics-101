@@ -1,0 +1,129 @@
+ 
+ANDY ANDRES: So continuing our look at run
+scoring through the different eras of baseball, let's
+cover a little history of the foundation of the Major Leagues.
+Remember we started collecting data in professional baseball in 1871.
+Well, as we know from Chadwick, our understanding of Chadwick and his work,
+there was baseball being played at a very high level before that.
+1871 is the establishment of the National Association
+of Professional Baseball Players.
+And that lasts for a few years, about five years,
+before a new league forms after that one folds, which is the National League.
+That's the National League that we know today.
+It's been in continuous operation for a long, long time
+as you see from this graph.
+Other leagues are also on this graph here.
+We can see there is the one-year Union Association in here.
+Also included are the American Association teams.
+This is the American Association around the same time.
+There's also the one year of the Players League.
+Now remember this is the time of the evolution of the game.
+And part of the evolution of the game is settling down,
+in terms of which leagues are going to last,
+and how they're going to structure this to be a professional enterprise--an
+enterprise of paying players to play, and where owners can actually create
+a business side of this.
+But we start talking mostly about the modern era.
+But before we move on to looking at the run
+scoring environments in the modern era, and how the leagues might be different,
+let's just look at these data here, OK, these data here.
+Do we see much difference potentially between run scoring environments
+in any of the leagues?
+Is there a league difference in run scoring environment?
+And we look at these data and potentially this might be a difference.
+Maybe there's a difference here with the Players League.
+It might be different than the other leagues in that era, that actual year.
+But it's hard to tell.
+And again, if you're interested in this, seeing this difference,
+you might explore it.
+What could be the potential cause for this difference?
+Do you think it actually is a significant difference or not?
+So that's what a data analyst might do.
+They observe the data and ask questions, if they're curious about it.
+But let's focus now on the modern era to see
+if we can find any differences between the leagues.
+So here is the, here's the data from 1901 on.
+This is just the modern era and we're graphing each league.
+OK, now we've got a third league here, this is the Federal League.
+The Federal League lasted for two years, and probably
+the most interesting thing about the Federal League
+is it gave us Wrigley Field where the Cubs play.
+The Chicago team in the Federal League and the Chicago team in the National
+League merged after the folding of the Federal League,
+and they took over Wrigley Field.
+So anyway let's just look at these data again
+to see if we see much difference between the leagues.
+So interestingly there is something to note here.
+There is this funny bump-up in run scoring
+from sort of the high threes, that's pretty consistent for awhile.
+Then all of a sudden things bump up.
+And this is actually well-described.
+What happened here was the new ball.
+There was a new ball in effect that was much more lively.
+They had a new cork center, and they had different yarn in the ball,
+and that increased run scoring.
+You actually could hit the ball a little further.
+It wasn't as soft or mushy as the previous balls were.
+So it would actually go farther, you had a little more power,
+and a little more run scoring.
+But remember the rules changed in 1920 concerning pitching.
+This was the time of spit balls and one of the things
+that's described in this decrease of runs that is occurring here,
+this decrease in runs that occurs here in this time frame from 1912,
+1913 on downward was because of something called the emery ball.
+The emery ball.
+And the emery ball was essentially scuffing the ball.
+What a pitcher found was if he scuffed the ball on concrete
+and created a little rough side to it, the ball would actually move more.
+So you get more movement on your pitches with scuffing the ball.
+Very interesting question, in and of itself, the physics of that.
+But the discovery of this was made clear that you reduced, again,
+the run scoring environments.
+The ball stayed the same, but pitchers readjusted
+by adding more trick pitches.
+Of course, 1920, they outlawed one of the trick pitches
+and they grandfathered the spitballers to actually continue
+to throw the spitball.
+All very interesting, history of the game, that
+explains the run scoring environment that we see here.
+Observing the data some more, though, we're
+looking for differences between the leagues, this is a big difference.
+The American League actually has a much higher run scoring environment
+than the National League.
+This might be style of play.
+It might be some effect just of smaller parks in the American League.
+Certainly the House that Ruth Built starting in 1923--Yankee
+Stadium--increased home runs for left-handed hitters.
+But this is a question that people might want to explore.
+What exactly are the potential causes of this difference between the American
+League and the National League in their run scoring environments?
+And again, students here can explore that on the forums or other places.
+But this is an interesting difference between the leagues.
+What happens with the designated hitter is this.
+Remember the designated hitter starts in 1973.
+And if you look at the data between the leagues, it's pretty consistent.
+There is not much league difference until we get to 1979.
+1979 we seem to create a split between the run scoring
+environment of the American League, this is the AL here.
+And this is the National League.
+So finally you get this split here that's a potential difference.
+It may be significant at this point, but the trend seems to continue--not
+completely all the time, but there seems to be a significant separation between
+the American League run scoring environment and the National League run
+scoring environment.
+Again understood, because we understand the new rules of the DH
+and how it increases run scoring in the American League.
+But again let's put our analyst hat on.
+Let's observe these data carefully and just let our natural curiosity
+take over to ask certain questions.
+For example, we might ask why did it take until 1979?
+Why 1979?
+Why did we finally see the separation between run scoring environments
+between the two leagues?
+Designated hitter is a great explanation for this separation, but how come
+it took many years for that to occur?
+What's the explanation for the data staying the same for a good six years
+until we get the separation in 1979?
+This could be a question that you want to explore or think about.
+But this is how a Sabermetrician thinks.
+They observe data and they let their natural curiosity take over.

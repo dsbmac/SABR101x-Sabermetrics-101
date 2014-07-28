@@ -1,0 +1,138 @@
+ANDY ANDRES: For this module we're going to be
+looking at Allan Roth in our History of Sabermetrics track.
+Allan Roth has a very interesting story, but just some facts--
+he really did take analytics to a new level
+and do very innovative things people hadn't been doing before.
+And the other thing was he was the first full time
+employee for a club to do this sort of work.
+The story goes Allan Roth was interested in numbers.
+He grew up in Canada and started analyzing hockey games,
+keeping track of numbers when he was in the war-- he actually
+kept track of statistics for the war effort.
+So he has a lifelong fascination with numbers,
+and he thought he could help the Dodgers and Branch Rickey, in particular.
+So in 1944 after leaving the military during World War II,
+he sent Roth a letter where he proposed tracking
+lots of different things in a baseball game-- batted ball location,
+pitch types, the count at which batted balls were hit,
+splits for righty lefty, day night splits, ballpark effects
+to try to better understand how stats changed in different ballparks,
+base out situations, and home road splits.
+And when Roth met Rickey he was very intrigued by Roth's ideas
+and pressed upon the Dodgers to hire Allan Roth full time
+to help the Dodgers win.
+It took until April 1947 though for the visa to clear.
+It was the war effort and I think visas were harder
+to clear between Canada and the US.
+So for three years or so, maybe a little less, Allan Roth had a job
+but couldn't really work.
+When he started working in 1947-- interestingly on the same day
+that Jackie Robinson started with the Dodgers--
+the way he kept track of everything for every game
+he had a 17 by 14 inch sheet which recorded all this information
+that I just spoke of-- batted ball location count--
+and he started compiling statistics based on that.
+And every game had its chart and data set that he was collecting,
+and for 18 seasons he charted all these games.
+Now a significant event happened in 1950,
+which wasn't too far into his tenure working for the Dodgers.
+Branch Rickey took a job with the Pittsburgh Pirates,
+and Allan Roth stayed on with the Dodgers.
+There was new management and they moved him from his preferred seat
+behind home plate up to the press box.
+And he couldn't really recognize pitches anymore,
+so he stopped recording pitch types.
+He was a little frustrated by the new seat,
+but he kept plugging away collecting all the other data that he could.
+And he got more and more involved in media
+relations for the Dodgers working with the broadcast teams and the writers
+to give them statistics as needed.
+So that was the broad outline of what Allan Roth has contributed--
+this massive effort of data collection.
+Massive.
+You can think about 18 seasons worth of data-- 154 games
+and then transitioning to 162 games.
+And Branch Rickey, he wrote, in my opinion,
+Allan Roth was the top statistical specialist in baseball.
+And later on, Bill James said he was the guy who began it all.
+He took statisticians into a brave new world.
+One of the key things I really want to analyze is the Life 1954 article.
+You should have read that before looking at these videos.
+It's really quite fascinating and it's one of the premier things
+to read for new sabermetricians.
+It's a key thing to read so that they appreciate work that was done previous
+to the modern era in sabermetrics.
+So the Life 1954 article was a key moment for Allan Roth
+and for Branch Rickey, and frankly, for sabermetrics.
+So I hope you enjoyed reading it.
+In there you read that Life magazine actually asked Rickey
+if there could be formulated a way to measure value better
+for all the different elements of a game.
+So that was the beginning of this article.
+Life came to Rickey and said, "Can you develop a kind of formula
+to do this kind of valuation?"
+And Rickey was a little skeptical, but he talked to Allan Roth
+and they worked together in the run up to this article.
+And on August 2, 1945, Life published their article,
+"Goodbye to Some Old Baseball Ideas."
+And in it, here is some quotes: "Baseball people
+are generally allergic to new ideas."
+This article explains a device for measuring baseball,
+revealing startling truths about the nature of the game.
+And accurate important factors which contribute to winning and losing games.
+And what Branch Rickey also said was it was the most constructive thing
+to come into baseball in his memory.
+So here's the start of what they do.
+And I want to go through this chart and explain it.
+This is the first figure in the paper, but let's explain it
+because it leads to the formula that Rickey also reports.
+So let's walk through this chart.
+This is the 1953 National League standings, and what we have here
+are games behind.
+The National League winner that year was the Brooklyn Dodgers and all
+the other teams were pretty far behind as it as it turns out.
+And what we have here is O. Now remember this.
+O and D are parts of the formula that we're
+going to describe in the next slide.
+But that's the formula that Rickey and Roth come up with.
+What we're graphing here is runs per game.
+This is our per game for the Brooklyn Dodgers,
+and this is runs allowed per game by the Brooklyn Dodgers.
+O minus D is this column here.
+That's just the subtraction.
+You can do it.
+You can look over the numbers and see that it's
+this number minus this number equals this number.
+Pretty straightforward math.
+So this is what we would call the run differential.
+This is the run differential commonly referred to today
+as the run differential.
+ 
+But this is the first time run differential
+is analyzed systematically and used to better understand
+how to win baseball games.
+So Roth and Rickey start describing the run differential.
+I think all baseball writers and fans and general managers and people
+in the game understood that run differential was key,
+but what Roth and Rickey do is start talking about run differential
+as a number and building a formula leading to O.
+They're modeling something here.
+Now they're modeling offense and they're modeling defense.
+These are models that they build up that you read about.
+These are the models that model offense and model defense,
+and the whole idea now is to start predicting games behind
+from these models.
+That's what Rickey calls his efficiency in certain places.
+So you can see it's pretty straightforward math
+and once again, this predates efforts by Earnshaw Cook and others
+to look at winning percentage estimators.
+This really was a first look at the standings order of a team
+and the run differential of the team and how it goes with the standings--
+the rank order of the standings as they finish the season.
+So what's next?
+What's next is to look at the actual formula
+that Roth and Rickey come up with to model these games behind,
+to model the idea that we can predict through different measurements 0:09:56.484,1193:02:47.295  
+where teams will end up, how many runs they'll score, how their offense will
+do, how their defense will do, to get at final standings
+and how many wins a team might get.

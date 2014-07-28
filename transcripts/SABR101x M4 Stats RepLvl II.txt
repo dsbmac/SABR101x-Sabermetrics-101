@@ -1,0 +1,199 @@
+ANDY ANDRES: So here's my question for the student.
+And the question's pretty simple.
+But it's where we left off.
+So here's our question.
+ 
+Does baseball talent fall into a normal distribution?
+Remember a normal distribution-- here we'll do another free hand of it.
+Bell shaped curve.
+And if I were measuring talent-- remember
+this is the mean, the median, and the mode on a bell shaped curve.
+And when I measure any form of baseball talent,
+even using various outcome measures that I hope represent talent,
+is it going to follow a normal distribution?
+Let's just do a study.
+Let's try to measure something to see if baseball talent falls
+into a normal distribution.
+And our surrogate for baseball talent is going to be OPS.
+OPS as a measure of hitting talent.
+ 
+That's our measure of talent for this little study.
+OPS.
+We're going to see if OPS, as a measure of baseball talent,
+falls into the normal distribution.
+So we're going to run a SQL query.
+I'm going to go to the sandbox and show you my query.
+I'm going to then switch over to RStudio, and do a histogram.
+So here's my SQL query entered into the SQL Sandbox.
+And you can see what we've done here.
+The query is pretty straightforward.
+What we're doing is putting in the player ID, year ID, team ID.
+We're calculating plate appearances, on base percentage, slugging, and OPS.
+And these are the formulas that we've been
+using for each of those statistics.
+We're taking it from the batting table.
+We're just using the year 2013.
+Plate appearance is greater than 299.
+300 or greater.
+And we're just going to order by OPS descending.
+So let's run this query.
+ 
+And here are the results for 2013.
+Top player Miguel Cabrera.
+His OPS was 1.078.
+And we have 270 rows.
+Now this is pretty good.
+Because there are 30 teams in baseball.
+So 270 divided by 30 equals 9.
+That means we have 9 players represented here
+in our database for each of the teams.
+That's on average.
+So that's actually pretty close to what I'm
+thinking about in terms of replacement level.
+Full time versus replacement level.
+But I like 270.
+So that choice of 299 plate appearances, which we have at the top here.
+That choice of 299 plate appearances looks pretty good.
+Now what I've done is create this little data set.
+And I'm going to download the results.
+Download the results.
+We'll have this query for you, so you can run it yourself.
+But it's pretty straightforward.
+You've done this before.
+And you might want to start saving your SQL queries in some special place.
+In a text file for this course so you can go back to them as needed.
+But I was just downloading full results.
+And then we'll go into RStudio, and look at code
+that can generate a histogram of these data.
+ 
+So here we are back in RStudio where we left off in our previous lesson.
+And I wanted to show you a new tab here I
+started to look at this histogram of OPS data.
+There's a command here that we should be familiar with, the Function Read CSV.
+It's going to read a file name.
+Lahman Sandbox 7, and that's what was saved from the SQL sandbox earlier.
+So I'm going to run this.
+Down here, it looks like it ran fine.
+Let's check in the environment, the global environment.
+Here is the data frame.
+OPS_2013.
+That's the data frame that was created with the Run CSV function.
+270 observations, just like we found in the SQL sandbox.
+If I click on it, yes it looks like the same spreadsheet, the same data frame
+that we had before.
+Miguel Cabrera at the top, with a 1.078 OPS.
+So that looks good.
+And now we're going to come down here and try to understand the next command.
+The next command is a qplot command.
+Remember we can always go to Help and find out more about qplot.
+qplot is quick plot.
+And it's part of the ggplot package.
+Now I've installed the ggplot package.
+You might have to do that.
+It's right here.
+And you can click on it.
+And then we see it detaches when I click it off.
+But if I click back on top of it again, it
+adds the library of all those functions in this package.
+And one of those functions is quick plot.
+So let's run it.
+It's going to do a histogram of the OPS data column inside the OPS_2013 data
+frame.
+It's going to take that one column, and do a histogram.
+And that's what this command says.
+If it's 1 variable it can do a histogram.
+The bin width on the histogram is set with another parameter to the function.
+And I also can outline the bars in the histogram with a certain color.
+Let's run this function.
+ 
+qplot.
+There it is.
+And here's our output.
+Now this output doesn't look normal.
+It looks like it's skewed to the right.
+And this is what Bill James was talking about when
+he talked about how using average was probably incorrect.
+You needed to start thinking about replacement level.
+Which is somewhere down here at the other end.
+ 
+Let's transfer this plot to my PowerPoint deck.
+And we'll analyze some of the data associated with OPS in 2013.
+To think about its nature as either being normal, a bell shaped curve.
+Or potentially skewed.
+And we used R to help generate this graph.
+And we'll take a closer look at this graph now.
+ 
+So this is the histogram of the OPS data from 2013,
+of all batters who had at least 300 plate appearances.
+OPS 2013.
+And this data set runs from the lowest OPS in that group of 0.548.
+548 OPS, which is very low.
+To Miguel Cabrera's, which is 1.078 OPS.
+Now the first quartile is 0.6807.
+And the way this works is it's right about here.
+Here's the first quartile.
+Somewhere right in here.
+This is the first quartile.
+ 
+The third quartile for this data set is 0.799.
+So that's right about here.
+This is the third quartile.
+Right about here.
+Third quartile.
+As you can see, most of the data is right here.
+50% of the data is right through here.
+And what that tells you is there's a real distribution
+of data above an OPS of 800.
+That's one quarter of the data set.
+And it really does fan out like it's skewed.
+ 
+The mean is 0.742 OPS.
+The median is 0.736.
+So the median is less than the mean.
+The median is over here.
+This is 0.7.
+This is 0.7 right here.
+ 
+So 0.736 is somewhere in here.
+This is the median.
+The median is right about here.
+And the mean isn't too far.
+The mean is greater than the median, meaning
+there is likely a skewed distribution pulling the mean away from the median.
+If it was normal, it would be equal.
+These two values would be equal.
+So remember, n equals 270 here.
+There's 270 players who met our criteria of OPS that we studied in 2013.
+And this is what the data looked like.
+And it just looks like there's a lot more data near the 25 percentile mark.
+And the data from the third quarter on, the last quartile,
+is much more spread out in a distribution.
+ 
+And here's what to think about this.
+This really looks like a very nice rising distribution.
+And this area here looks like it might be something like replacement level.
+So again, let's just think about the normal population.
+There's a normal curve, if we're measuring something.
+That's a bad curve, but just go with it.
+There's a normal curve.
+And if we blow up this section right here, the extraordinarily high
+away from the mean section, let's draw that.
+That section is going to look like this.
+If I just take this section right here, and blow it up,
+this is the end of the bell curve.
+The end of the bell curve is going to have a shape like our curve here.
+That's what the end of the bell curve is going to be like.
+And this is what Keith Woolner writes about
+in Baseball Prospectus Annual 2002.
+So I'm going to say BP Annual is where Keith Woolner describes replacement
+level.
+If you can find this, or you can find this book in the library.
+Well this is where Keith Woolner lays out his argument for VORP.
+VORP is a creation of Keith Woolner.
+It's a batting only creation.
+It's really been superseded by various WARPs, or WARs that are out there now.
+But the start of this whole idea of really looking
+at replacement level with some good analytics
+was VORP by Baseball Prospectus and Keith Woolner.
+So Keith lays out his argument for his choice
+of replacement level with his article in the BP Annual in 2002.

@@ -1,0 +1,143 @@
+ 
+ANDY ANDRES: Because the game in the 19th century
+is really not the same game that we see being played today,
+and we know of all the rule changes that went on during that time
+during the evolution of the game, it's harder
+to include those data as part of a normal run scoring environment
+analysis.
+So what we do is look at the modern era.
+The modern era starts in 1901.
+So looking at the data from 1901, we see a little bit more consistency.
+But even a closer look at these data show potential differences.
+So looking at this, you might start clustering groups together.
+Yearly trends might be showing up in these data.
+Maybe you'd cluster this group together with this funny thing
+going on here that's a question mark.
+This looks like a consistently era with some outliers.
+Here's another consistent era, potentially.
+And I'm just clustering groups of data together than the sort of make sense.
+And you may or may not agree with that, but this is one way to sort of look
+at these data and say maybe these groupings are alike.
+And that's very appropriate analyses to help understand potential changes
+in the game, rules in the game, how the game is played.
+So it is sabermetrics to analyze the game this way for better understanding.
+Let's look at these different eras and what they've been called.
+This area here is called the dead ball era.
+Now it's called the dead ball era for a reason.
+The manufacturer of the baseballs themselves was probably inconsistent,
+leading to lower coefficient of restitution of the ball,
+springiness, or batted ball distance itself.
+And the other thing to note is this right here, the use of the same ball.
+In this time, they would play with the ball for as long as possible.
+And these balls would get hit, and they'd
+lose batted ball flight from being hit more.
+They'd get darker colored brown and green from use.
+So that would certainly impact the ability to see the ball well,
+maybe hit the ball well, and also just reduced batted ball flight.
+The other thing that was going on here was within the game,
+they did not make illegal trick pitches like spit balls
+or other balls that impacted the flight.
+Pitchers were able to lick their fingers before the pitch
+and potentially put other substances on the ball as they delivered the pitch.
+So there were a lot more trick pitches in the dead ball era.
+And rules changed in 1920.
+In 1920 rules changed around the use of spit balls
+and the ability for the pitcher to bring their fingers to their mouth
+while they're on the pitcher's mound.
+So that was a big deal.
+The use of trick pitches during the dead ball era, that reduced run scoring.
+The batted ball flight and the ability to see the ball reduced run scoring.
+So those are potential reasons why runs might
+be a little lower in the dead ball era.
+The next cluster of data would be this one here.
+You might call this group here another cluster of runs that look similar,
+a similar run scoring environment.
+And this era does have a name in baseball history.
+This is the live ball era.
+The live ball era is epitomized by the emergence of great home run hitters,
+namely Babe Ruth.
+Babe Ruth comes along and changes a lot about the game of baseball.
+One thing he changes is just the amount of home runs being hit.
+Another key factor though, maybe less well known,
+is the death of Ray Chapman.
+Ray Chapman dies in 1920 on the field.
+He gets hit by a ball.
+And accounts say he didn't even move during the pitch.
+In other words, it looked like he didn't see the ball coming towards his head.
+And because there is some speculation that either the background behind him
+or the ball being used during the game and not as bright and white and new
+as you might want, they changed the rules here to replace the baseballs
+as often as possible during the game.
+As a direct result of Ray Chapman's death,
+they started replacing baseballs a lot more.
+And that probably greatly impacted the ability of hitters to see the ball
+and potentially impacted the ability of scoring runs.
+So this increase in run scoring environment
+that we see from around four runs per game by teams to almost five
+runs a game by teams, there are many potential explanations for this.
+One could be the replacement of the baseball.
+The manufacture of the baseball became much more consistent.
+And that surely had an impact on batted flight as well.
+We look at these data right here.
+These data represent the war years, the World War II years are here.
+A lot of major league baseball players went to Europe or the Pacific
+and fought in the war.
+So a lot of replacement players played during these years.
+They were different players on major league rosters.
+These data are a little separate from other eras
+though the war time era of baseball.
+But in general, this era here has a name,
+and it's called the integration era.
+The war years had a dilution of talent, and obviously a very important event
+was in 1947 Jackie Robinson joined the major leagues.
+And then, because of that, and because of more and more African
+Americans joining the major leagues, the Negro Leagues
+started to slowly fade away in importance and in number
+of participants in the Negro Leagues.
+But this is a pretty consistent run scoring environment
+given the caveat of the war years being a little different.
+The integration era looks like it's a pretty consistent
+4.5 runs per game era.
+And this is obviously a time when the game becomes much more worldwide, much
+more universal for all participants in the world who wanted to play.
+A very important factor in thinking about baseball analytics
+is the sampling of participants in the game.
+But then it looks like something happens here,
+following what we call the integration era to 1960.
+There are a lot changes in the game from 1960 to today.
+There was expansion of teams.
+Expansion occurred starting in 1961.
+In 1960, there were 16 teams, 16 teams.
+And then starting in 1961 until today, now there are 30 teams.
+That greatly changes competitive balance, dilution.
+So expansion occurred.
+Expansion is a big factor that occurred during this time.
+Another big thing was in the American League, in the AL,
+they adopted the DH rule, the designated hitter rule.
+And it changes now the run scoring environment between the two leagues.
+You might have more runs scored in the American League
+because pitchers aren't going to be batting in the batting lineup anymore.
+And another big change occurred in 1969.
+In 1968, there was a very low run scoring environment.
+That's noted by this outlier right here.
+That's 1968.
+There were two changes in the game in 1969.
+One, they changed the strikes out.
+They shrunk it a little bit in the vertical direction.
+They lowered the top of the strike zone and raised
+the bottom of the strike zone.
+And two, they lowered the pitcher's mound.
+ 
+And what this did is took away some advantage
+of the picture of throwing downhill.
+So you could imagine the pitching mound was 15 inches above the level ground,
+now it became 10 inches above the level ground.
+And potentially the trajectory of the pitches changed by five inches
+or so and that might have changed the ability of hitters
+to actually hit the ball in the strike zone.
+So those two changes were very big two.
+So a lot of things happen from 1960, from 1960 all the way
+to the modern game today.
+So how do we characterize this era?
+How do we analyze this era?
+In other words, what do we call this area or eras in this time frame?
